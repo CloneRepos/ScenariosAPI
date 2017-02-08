@@ -2,18 +2,60 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_195715 @tag1 @tag2 @tag3
-Scenario Outline: DDr32QJu3SName
+@SC_197678 @tag1 @tag2 @tag3
+Scenario Outline: 4rH7VxuSBlName
 Description scenario yeah!
 Given first
 When second
 Then last <arg1> <arg2>
 
-Examples: HdiKnOrvCzTable
+Examples: E9JSxTLQgjTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
+@SC_78409 @KHAD @BUFG @DFGZ
+Scenario Outline: Y6uXPrhb6uName
+YBPbvf4hvQScenarioDescription
+Given YKBTsYBGCtStep
+When eIKkYRegBlStep
+Then DUnXcf65PrStep <arg1> <arg2>
+
+Examples: ZzKyt8F90fTable
+7YLvdMcPDnTableDescription
+|arg1|arg2|
+|92ZI|CEPR|
+|92ZI|CEPR|
+
+
+@SC_81770 @0ONH @SXK5 @MA03
+Scenario Outline: 7Q3M1x6aCcName
+yjMh8GgioAScenarioDescription
+Given muIZlqHHW6Step
+When 2cMi9E6IiLStep
+Then wz9Qndfz78Step <arg1> <arg2>
+
+Examples: RV6H190OMHTable
+jX4sEFn9M5TableDescription
+|arg1|arg2|
+|8Y6X|XUVY|
+|8Y6X|XUVY|
+
+
+@SC_82718 @EOWW @9MXK @ARR3
+Scenario Outline: j69R42gaIsName
+aUecmPE2ggScenarioDescription
+Given 24afF7rapTStep
+When xfO3zoUOShStep
+Then es3xRjQwEHStep <arg1> <arg2>
+
+Examples: QhAhmr6UNqTable
+kW3Q6SWsQhTableDescription
+|arg1|arg2|
+|C8XY|BL1Z|
+|C8XY|BL1Z|
+
 
 @SC_85231 @UJT0 @I8WC @WCQT
 Scenario Outline: hmGJOgYsaeName
@@ -378,43 +420,15 @@ eK4SK1LhdrTableDescription
 |ZM19|XTSX|
 |ZM19|XTSX|
 
-@SC_82718 @EOWW @9MXK @ARR3
-Scenario Outline: j69R42gaIsName
-aUecmPE2ggScenarioDescription
-Given 24afF7rapTStep
-When xfO3zoUOShStep
-Then es3xRjQwEHStep <arg1> <arg2>
+@SC_195715 @tag1 @tag2 @tag3
+Scenario Outline: DDr32QJu3SName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
 
-Examples: QhAhmr6UNqTable
-kW3Q6SWsQhTableDescription
+Examples: HdiKnOrvCzTable
+Table description yeah!
 |arg1|arg2|
-|C8XY|BL1Z|
-|C8XY|BL1Z|
-
-
-@SC_81770 @0ONH @SXK5 @MA03
-Scenario Outline: 7Q3M1x6aCcName
-yjMh8GgioAScenarioDescription
-Given muIZlqHHW6Step
-When 2cMi9E6IiLStep
-Then wz9Qndfz78Step <arg1> <arg2>
-
-Examples: RV6H190OMHTable
-jX4sEFn9M5TableDescription
-|arg1|arg2|
-|8Y6X|XUVY|
-|8Y6X|XUVY|
-
-
-@SC_78409 @KHAD @BUFG @DFGZ
-Scenario Outline: Y6uXPrhb6uName
-YBPbvf4hvQScenarioDescription
-Given YKBTsYBGCtStep
-When eIKkYRegBlStep
-Then DUnXcf65PrStep <arg1> <arg2>
-
-Examples: ZzKyt8F90fTable
-7YLvdMcPDnTableDescription
-|arg1|arg2|
-|92ZI|CEPR|
-|92ZI|CEPR|
+|123|456|
+|123|456|
