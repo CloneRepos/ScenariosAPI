@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_174808 @GEDD @4YML @OAYK
-Scenario Outline: UlS4GizM43Name
-Ih90yqXutzScenarioDescription
-Given nQCN5pAIwNStep
-When KnSMvAhfiNStep
-Then g0J7V51s9YStep <arg1> <arg2>
+@SC_181017 @A2EO @9GS0 @FT6R
+Scenario Outline: WJj0qL6sG6Name
+WK8hpBnCLKScenarioDescription
+Given QqEm8xrl0iStep
+When ctAHB7aMuvStep
+Then 0rz9JXHnR9Step <arg1> <arg2>
 
-Examples: t6puJ1p787Table
-cVDRlnZXDTTableDescription
+Examples: HSb5u4L1SBTable
+e95e7CnKRSTableDescription
 |arg1|arg2|
-|WZ7F|4CCH|
-|WZ7F|4CCH|
+|Z8AJ|HB5C|
+|Z8AJ|HB5C|
 
 @SC_168374 @DROV @2FPT @NBK0
 Scenario Outline: xi8t12EZKlName
@@ -99,32 +99,60 @@ ndey4HZxLpTableDescription
 |RJBS|IN19|
 
 
-@SC_97249 @N5AJ @DAFR @CXHA
-Scenario Outline: W86fE6pp6bName
-Z0q3U0E0qcScenarioDescription
-Given RMNeu1szxCStep
-When xCfULXvQXEStep
-Then SrIULZ1G7vStep <arg1> <arg2>
+@SC_174808 @GEDD @4YML @OAYK
+Scenario Outline: UlS4GizM43Name
+Ih90yqXutzScenarioDescription
+Given nQCN5pAIwNStep
+When KnSMvAhfiNStep
+Then g0J7V51s9YStep <arg1> <arg2>
 
-Examples: SYo2d9Cg3hTable
-tgx0WGZO1FTableDescription
+Examples: t6puJ1p787Table
+cVDRlnZXDTTableDescription
 |arg1|arg2|
-|5OKA|CYFG|
-|5OKA|CYFG|
+|WZ7F|4CCH|
+|WZ7F|4CCH|
 
 
-@SC_90874 @MDIF @WBIM @LXA1
-Scenario Outline: EFJBcd67HwName
-KmOhdemfwRScenarioDescription
-Given OMmfcXtJ39Step
-When AZkv1D0Fb9Step
-Then w68s8xrh1bStep <arg1> <arg2>
+@SC_161480 @CLB4 @JIGX @RFX7
+Scenario Outline: 9A5i19zfYiName
+b2lPHmeFbAScenarioDescription
+Given cKue6vzZsOStep
+When po7zRprIgLStep
+Then J6LJSYk16PStep <arg1> <arg2>
 
-Examples: XpIhVQxI1wTable
-p368k8f247TableDescription
+Examples: hRU5c9hnyITable
+qXna27cgs0TableDescription
 |arg1|arg2|
-|IJPE|WDJ2|
-|IJPE|WDJ2|
+|3OHN|EWGQ|
+|3OHN|EWGQ|
+
+
+@SC_156548 @UCYC @9V3D @3IFH
+Scenario Outline: aLmi2Qgw9nName
+rn1QiKxeKGScenarioDescription
+Given SZYOr6zopVStep
+When n782cOGYPTStep
+Then 7VXRfolNkgStep <arg1> <arg2>
+
+Examples: FddpVhr2xqTable
+z2HwYXzUPXTableDescription
+|arg1|arg2|
+|OVN7|D059|
+|OVN7|D059|
+
+
+@SC_152783 @CBEG @DYAA @UM6K
+Scenario Outline: XhMt8HgTHDName
+HyG4Nvm4oZScenarioDescription
+Given XePdUNqJjOStep
+When TJSsmLYozIStep
+Then bACphlVWQfStep <arg1> <arg2>
+
+Examples: b8oM7wt2SxTable
+O2HJFqnFlTTableDescription
+|arg1|arg2|
+|T8Z7|IOY2|
+|T8Z7|IOY2|
 
 
 @SC_85231 @ADQE @HRII @3O75
@@ -379,32 +407,32 @@ mZcO7AZTydTableDescription
 |T44L|MCYR|
 
 
-@SC_181017 @XKX1 @DFDQ @I5HF
-Scenario Outline: x8qzb7zbkMName
-Ae1QqkULrgScenarioDescription
-Given USCgQDqEREStep
-When NwAbD47QpcStep
-Then lRe1VHHW23Step <arg1> <arg2>
+@SC_90874 @MDIF @WBIM @LXA1
+Scenario Outline: EFJBcd67HwName
+KmOhdemfwRScenarioDescription
+Given OMmfcXtJ39Step
+When AZkv1D0Fb9Step
+Then w68s8xrh1bStep <arg1> <arg2>
 
-Examples: KDx8OV2SIQTable
-F3MkOBhRjdTableDescription
+Examples: XpIhVQxI1wTable
+p368k8f247TableDescription
 |arg1|arg2|
-|YEUH|WNYB|
-|YEUH|WNYB|
+|IJPE|WDJ2|
+|IJPE|WDJ2|
 
 
-@SC_161480 @CLB4 @JIGX @RFX7
-Scenario Outline: 9A5i19zfYiName
-b2lPHmeFbAScenarioDescription
-Given cKue6vzZsOStep
-When po7zRprIgLStep
-Then J6LJSYk16PStep <arg1> <arg2>
+@SC_97249 @N5AJ @DAFR @CXHA
+Scenario Outline: W86fE6pp6bName
+Z0q3U0E0qcScenarioDescription
+Given RMNeu1szxCStep
+When xCfULXvQXEStep
+Then SrIULZ1G7vStep <arg1> <arg2>
 
-Examples: hRU5c9hnyITable
-qXna27cgs0TableDescription
+Examples: SYo2d9Cg3hTable
+tgx0WGZO1FTableDescription
 |arg1|arg2|
-|3OHN|EWGQ|
-|3OHN|EWGQ|
+|5OKA|CYFG|
+|5OKA|CYFG|
 
 
 @SC_108562 @VNGE @LRAE @Z8CN
@@ -419,31 +447,3 @@ w3pW61AvhRTableDescription
 |arg1|arg2|
 |EFT1|YIHP|
 |EFT1|YIHP|
-
-
-@SC_152783 @CBEG @DYAA @UM6K
-Scenario Outline: XhMt8HgTHDName
-HyG4Nvm4oZScenarioDescription
-Given XePdUNqJjOStep
-When TJSsmLYozIStep
-Then bACphlVWQfStep <arg1> <arg2>
-
-Examples: b8oM7wt2SxTable
-O2HJFqnFlTTableDescription
-|arg1|arg2|
-|T8Z7|IOY2|
-|T8Z7|IOY2|
-
-
-@SC_156548 @UCYC @9V3D @3IFH
-Scenario Outline: aLmi2Qgw9nName
-rn1QiKxeKGScenarioDescription
-Given SZYOr6zopVStep
-When n782cOGYPTStep
-Then 7VXRfolNkgStep <arg1> <arg2>
-
-Examples: FddpVhr2xqTable
-z2HwYXzUPXTableDescription
-|arg1|arg2|
-|OVN7|D059|
-|OVN7|D059|
