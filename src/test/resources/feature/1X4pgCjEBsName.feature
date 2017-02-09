@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_181017 @A2EO @9GS0 @FT6R
-Scenario Outline: WJj0qL6sG6Name
-WK8hpBnCLKScenarioDescription
-Given QqEm8xrl0iStep
-When ctAHB7aMuvStep
-Then 0rz9JXHnR9Step <arg1> <arg2>
+@SC_181064 @2IGY @HVXJ @IZYX
+Scenario Outline: EPr081LdSeName
+zgo6oJkXkgScenarioDescription
+Given qkraXCbOdZStep
+When iU9NANzmOzStep
+Then g4NU5yFSWmStep <arg1> <arg2>
 
-Examples: HSb5u4L1SBTable
-e95e7CnKRSTableDescription
+Examples: kvXkEpKIdmTable
+HWNdSjr9jiTableDescription
 |arg1|arg2|
-|Z8AJ|HB5C|
-|Z8AJ|HB5C|
+|8QHZ|DX8T|
+|8QHZ|DX8T|
 
 @SC_168374 @DROV @2FPT @NBK0
 Scenario Outline: xi8t12EZKlName
@@ -113,46 +113,18 @@ cVDRlnZXDTTableDescription
 |WZ7F|4CCH|
 
 
-@SC_161480 @CLB4 @JIGX @RFX7
-Scenario Outline: 9A5i19zfYiName
-b2lPHmeFbAScenarioDescription
-Given cKue6vzZsOStep
-When po7zRprIgLStep
-Then J6LJSYk16PStep <arg1> <arg2>
+@SC_181017 @A2EO @9GS0 @FT6R
+Scenario Outline: WJj0qL6sG6Name
+WK8hpBnCLKScenarioDescription
+Given QqEm8xrl0iStep
+When ctAHB7aMuvStep
+Then 0rz9JXHnR9Step <arg1> <arg2>
 
-Examples: hRU5c9hnyITable
-qXna27cgs0TableDescription
+Examples: HSb5u4L1SBTable
+e95e7CnKRSTableDescription
 |arg1|arg2|
-|3OHN|EWGQ|
-|3OHN|EWGQ|
-
-
-@SC_156548 @UCYC @9V3D @3IFH
-Scenario Outline: aLmi2Qgw9nName
-rn1QiKxeKGScenarioDescription
-Given SZYOr6zopVStep
-When n782cOGYPTStep
-Then 7VXRfolNkgStep <arg1> <arg2>
-
-Examples: FddpVhr2xqTable
-z2HwYXzUPXTableDescription
-|arg1|arg2|
-|OVN7|D059|
-|OVN7|D059|
-
-
-@SC_152783 @CBEG @DYAA @UM6K
-Scenario Outline: XhMt8HgTHDName
-HyG4Nvm4oZScenarioDescription
-Given XePdUNqJjOStep
-When TJSsmLYozIStep
-Then bACphlVWQfStep <arg1> <arg2>
-
-Examples: b8oM7wt2SxTable
-O2HJFqnFlTTableDescription
-|arg1|arg2|
-|T8Z7|IOY2|
-|T8Z7|IOY2|
+|Z8AJ|HB5C|
+|Z8AJ|HB5C|
 
 
 @SC_85231 @ADQE @HRII @3O75
@@ -393,32 +365,32 @@ zkjmPbK6s2TableDescription
 |JBS3|N4CV|
 
 
-@SC_181064 @HCTS @Q1PE @GX85
-Scenario Outline: RvZ7cGOKD0Name
-5CF2aKeit3ScenarioDescription
-Given EeloYgA47mStep
-When UOzl6AtLhDStep
-Then NI4MVqs1XZStep <arg1> <arg2>
+@SC_161480 @CLB4 @JIGX @RFX7
+Scenario Outline: 9A5i19zfYiName
+b2lPHmeFbAScenarioDescription
+Given cKue6vzZsOStep
+When po7zRprIgLStep
+Then J6LJSYk16PStep <arg1> <arg2>
 
-Examples: XvVulJ1sWaTable
-mZcO7AZTydTableDescription
+Examples: hRU5c9hnyITable
+qXna27cgs0TableDescription
 |arg1|arg2|
-|T44L|MCYR|
-|T44L|MCYR|
+|3OHN|EWGQ|
+|3OHN|EWGQ|
 
 
-@SC_90874 @MDIF @WBIM @LXA1
-Scenario Outline: EFJBcd67HwName
-KmOhdemfwRScenarioDescription
-Given OMmfcXtJ39Step
-When AZkv1D0Fb9Step
-Then w68s8xrh1bStep <arg1> <arg2>
+@SC_108562 @VNGE @LRAE @Z8CN
+Scenario Outline: sFbc9lVtypName
+4lj9oM956XScenarioDescription
+Given plOqBOLVPgStep
+When scH2TWMAkAStep
+Then JpgYGYdvTPStep <arg1> <arg2>
 
-Examples: XpIhVQxI1wTable
-p368k8f247TableDescription
+Examples: 1NqFDFMchRTable
+w3pW61AvhRTableDescription
 |arg1|arg2|
-|IJPE|WDJ2|
-|IJPE|WDJ2|
+|EFT1|YIHP|
+|EFT1|YIHP|
 
 
 @SC_97249 @N5AJ @DAFR @CXHA
@@ -435,15 +407,43 @@ tgx0WGZO1FTableDescription
 |5OKA|CYFG|
 
 
-@SC_108562 @VNGE @LRAE @Z8CN
-Scenario Outline: sFbc9lVtypName
-4lj9oM956XScenarioDescription
-Given plOqBOLVPgStep
-When scH2TWMAkAStep
-Then JpgYGYdvTPStep <arg1> <arg2>
+@SC_90874 @MDIF @WBIM @LXA1
+Scenario Outline: EFJBcd67HwName
+KmOhdemfwRScenarioDescription
+Given OMmfcXtJ39Step
+When AZkv1D0Fb9Step
+Then w68s8xrh1bStep <arg1> <arg2>
 
-Examples: 1NqFDFMchRTable
-w3pW61AvhRTableDescription
+Examples: XpIhVQxI1wTable
+p368k8f247TableDescription
 |arg1|arg2|
-|EFT1|YIHP|
-|EFT1|YIHP|
+|IJPE|WDJ2|
+|IJPE|WDJ2|
+
+
+@SC_152783 @CBEG @DYAA @UM6K
+Scenario Outline: XhMt8HgTHDName
+HyG4Nvm4oZScenarioDescription
+Given XePdUNqJjOStep
+When TJSsmLYozIStep
+Then bACphlVWQfStep <arg1> <arg2>
+
+Examples: b8oM7wt2SxTable
+O2HJFqnFlTTableDescription
+|arg1|arg2|
+|T8Z7|IOY2|
+|T8Z7|IOY2|
+
+
+@SC_156548 @UCYC @9V3D @3IFH
+Scenario Outline: aLmi2Qgw9nName
+rn1QiKxeKGScenarioDescription
+Given SZYOr6zopVStep
+When n782cOGYPTStep
+Then 7VXRfolNkgStep <arg1> <arg2>
+
+Examples: FddpVhr2xqTable
+z2HwYXzUPXTableDescription
+|arg1|arg2|
+|OVN7|D059|
+|OVN7|D059|
