@@ -2,14 +2,14 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_199147 @tag1 @tag2 @tag3
-Scenario Outline: LEruTfOrnEName
+@SC_199148 @tag4 @tag5 @tag6
+Scenario Outline: eqf5pqLNklName
 Description scenario yeah!
 Given first
 When second
 Then last <arg1> <arg2>
 
-Examples: aOo6FQJcbETable
+Examples: vra84VElfQTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
@@ -405,6 +405,19 @@ Examples: zTXfSGOHDLTable
 |arg1|arg2|
 |AFLI|WICQ|
 |AFLI|WICQ|
+
+@SC_199147 @tag1 @tag2 @tag3
+Scenario Outline: LEruTfOrnEName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: aOo6FQJcbETable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
 
 @SC_85231 @XZZM @RK3U @U9SP
 Scenario Outline: dHnzGXE4ojName
