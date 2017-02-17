@@ -2,33 +2,6 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_226283 @tag4 @tag5 @tag6
-Scenario Outline: AGjBijxOiTName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
-
-Examples: H9q9SbTiMKTable
-Table description yeah!
-|arg1|arg2|
-|123|456|
-|123|456|
-
-@SC_168377 @SVFF @YSRA @FNJA
-Scenario Outline: th5rzpiyGEName
-UKQuX0DS5YScenarioDescription
-Given 7G7V2Z61IhStep
-When xbOkG7NHQLStep
-Then 9K61ntwIJYStep <arg1> <arg2>
-
-Examples: nGSzxrkAF1Table
-UKyKGtecGTTableDescription
-|arg1|arg2|
-|6AZF|PYV4|
-|6AZF|PYV4|
-
-
 @SC_172041 @OUGD @ER0J @PLF4
 Scenario Outline: vn96rSGOfGName
 ggwPC0H7BkScenarioDescription
@@ -540,6 +513,19 @@ When second
 Then last <arg1> <arg2>
 
 Examples: lCPfLBasUiTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+@SC_226283 @tag4 @tag5 @tag6
+Scenario Outline: AGjBijxOiTName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: H9q9SbTiMKTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
