@@ -2,88 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_186821 @PA0Q @4RS2 @ORJT
-Scenario Outline: JMEz1z2wHzName
-gcx9sVHX1bScenarioDescription
-Given IpTOcCceqPStep
-When R5zXWmTB9YStep
-Then o15RJzcpvUStep <arg1> <arg2>
+@SC_188081 @DY9Y @H7JU @RBZY
+Scenario Outline: O25ZxMfHGkName
+2lgjGlw2ybScenarioDescription
+Given 0YHWn2hL8mStep
+When KMm1ipxvY9Step
+Then LHodEQ2L6cStep <arg1> <arg2>
 
-Examples: XQcKe4udJXTable
-5D5iQoydRDTableDescription
+Examples: DYl3GRmkr4Table
+cAbpUKEHmQTableDescription
 |arg1|arg2|
-|MYIN|K8KF|
-|MYIN|K8KF|
-
-@SC_172041 @VBMP @IHHM @JUN3
-Scenario Outline: IB8w8IPmz9Name
-Z1p69u9696ScenarioDescription
-Given BJQeZFdRYiStep
-When Fk3DphdkyKStep
-Then QQSWkgkT4bStep <arg1> <arg2>
-
-Examples: 0c57zkAhWbTable
-XPlXh8urD0TableDescription
-|arg1|arg2|
-|VUV7|0ABQ|
-|VUV7|0ABQ|
-
-
-@SC_173504 @9GZ9 @CJEB @GK8O
-Scenario Outline: hhHZN1zYrLName
-FFzKq6dIC6ScenarioDescription
-Given RrtFS77U2jStep
-When rp1kIDRVPyStep
-Then tsgP3Mu52NStep <arg1> <arg2>
-
-Examples: ba9Snkxs62Table
-mVYbeM4SWGTableDescription
-|arg1|arg2|
-|EETH|R430|
-|EETH|R430|
-
-
-@SC_173505 @DYMH @KVVW @UQ6J
-Scenario Outline: 5rXEAtLZytName
-xpaePXddw8ScenarioDescription
-Given He0oZ0h9Y5Step
-When 8Ymm5NLQMoStep
-Then EoXhom0df3Step <arg1> <arg2>
-
-Examples: 4S2FO2zffXTable
-s5LZhpO1OATableDescription
-|arg1|arg2|
-|8NOL|YGML|
-|8NOL|YGML|
-
-
-@SC_174807 @MRPQ @71NB @NAPI
-Scenario Outline: 0ls0FWkKolName
-KD30s3O7ouScenarioDescription
-Given QgGcnb1RL9Step
-When o3KlJ24thuStep
-Then q0P7DVkJmLStep <arg1> <arg2>
-
-Examples: krXlVJrtWJTable
-bH9StY3KUATableDescription
-|arg1|arg2|
-|6AIW|GNQP|
-|6AIW|GNQP|
-
-
-@SC_174808 @REZG @X1JP @DEWM
-Scenario Outline: EtWXXZBRjsName
-ZUWzwyMyloScenarioDescription
-Given fGEo8uAlqHStep
-When D8BG1OVCGQStep
-Then owz9k6SbGxStep <arg1> <arg2>
-
-Examples: A6Xs0Z0iC9Table
-6NCZailYVOTableDescription
-|arg1|arg2|
-|XJ5A|RAGZ|
-|XJ5A|RAGZ|
-
+|N3DV|QRGT|
+|N3DV|QRGT|
 
 @SC_181017 @LWLO @TDRJ @UBES
 Scenario Outline: Tor3BpuqLkName
@@ -211,18 +141,18 @@ Examples: rQECKv1d82Table
 |TAZW|UXRN|
 
 
-@SC_188081 @IAUM @LETS @3TYX
-Scenario Outline: L7VwLN9dvCName
-wQ8qfKZYzGScenarioDescription
-Given 2bhV7h500ZStep
-When WOxm73powfStep
-Then Lr7mhBJPLqStep <arg1> <arg2>
+@SC_186821 @PA0Q @4RS2 @ORJT
+Scenario Outline: JMEz1z2wHzName
+gcx9sVHX1bScenarioDescription
+Given IpTOcCceqPStep
+When R5zXWmTB9YStep
+Then o15RJzcpvUStep <arg1> <arg2>
 
-Examples: mhRdLnOY6HTable
-OHCGCzzKu9TableDescription
+Examples: XQcKe4udJXTable
+5D5iQoydRDTableDescription
 |arg1|arg2|
-|JVPK|6RW9|
-|JVPK|6RW9|
+|MYIN|K8KF|
+|MYIN|K8KF|
 
 
 @SC_188082 @3CJW @U0I4 @XDCA
@@ -517,6 +447,76 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
+
+@SC_174808 @REZG @X1JP @DEWM
+Scenario Outline: EtWXXZBRjsName
+ZUWzwyMyloScenarioDescription
+Given fGEo8uAlqHStep
+When D8BG1OVCGQStep
+Then owz9k6SbGxStep <arg1> <arg2>
+
+Examples: A6Xs0Z0iC9Table
+6NCZailYVOTableDescription
+|arg1|arg2|
+|XJ5A|RAGZ|
+|XJ5A|RAGZ|
+
+
+@SC_174807 @MRPQ @71NB @NAPI
+Scenario Outline: 0ls0FWkKolName
+KD30s3O7ouScenarioDescription
+Given QgGcnb1RL9Step
+When o3KlJ24thuStep
+Then q0P7DVkJmLStep <arg1> <arg2>
+
+Examples: krXlVJrtWJTable
+bH9StY3KUATableDescription
+|arg1|arg2|
+|6AIW|GNQP|
+|6AIW|GNQP|
+
+
+@SC_173505 @DYMH @KVVW @UQ6J
+Scenario Outline: 5rXEAtLZytName
+xpaePXddw8ScenarioDescription
+Given He0oZ0h9Y5Step
+When 8Ymm5NLQMoStep
+Then EoXhom0df3Step <arg1> <arg2>
+
+Examples: 4S2FO2zffXTable
+s5LZhpO1OATableDescription
+|arg1|arg2|
+|8NOL|YGML|
+|8NOL|YGML|
+
+
+@SC_173504 @9GZ9 @CJEB @GK8O
+Scenario Outline: hhHZN1zYrLName
+FFzKq6dIC6ScenarioDescription
+Given RrtFS77U2jStep
+When rp1kIDRVPyStep
+Then tsgP3Mu52NStep <arg1> <arg2>
+
+Examples: ba9Snkxs62Table
+mVYbeM4SWGTableDescription
+|arg1|arg2|
+|EETH|R430|
+|EETH|R430|
+
+
+@SC_172041 @VBMP @IHHM @JUN3
+Scenario Outline: IB8w8IPmz9Name
+Z1p69u9696ScenarioDescription
+Given BJQeZFdRYiStep
+When Fk3DphdkyKStep
+Then QQSWkgkT4bStep <arg1> <arg2>
+
+Examples: 0c57zkAhWbTable
+XPlXh8urD0TableDescription
+|arg1|arg2|
+|VUV7|0ABQ|
+|VUV7|0ABQ|
 
 
 @SC_226283 @tag4 @tag5 @tag6
