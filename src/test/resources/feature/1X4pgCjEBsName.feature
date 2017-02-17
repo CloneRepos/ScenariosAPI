@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_188082 @JHPM @VQ5Y @XFAK
-Scenario Outline: 46V7UzxuMFName
-TBKK4plpvWScenarioDescription
-Given gk0YGSFjwGStep
-When bPIhe2GcM9Step
-Then MEenfaasQLStep <arg1> <arg2>
+@SC_195715 @CNEM @9V5H @PZIF
+Scenario Outline: eCJhTCl8gqName
+yhkfoj9NtQScenarioDescription
+Given nz0V8Dt6wJStep
+When GeOh1i16PeStep
+Then 3bbWDmyCDOStep <arg1> <arg2>
 
-Examples: M1l443JIbWTable
-0i3ERfBq5MTableDescription
+Examples: DxuT0bzKzmTable
+e0PGvmrlytTableDescription
 |arg1|arg2|
-|EBPW|BY5C|
-|EBPW|BY5C|
+|LP55|AOJS|
+|LP55|AOJS|
 
 @SC_172041 @VBMP @IHHM @JUN3
 Scenario Outline: IB8w8IPmz9Name
@@ -239,18 +239,18 @@ cAbpUKEHmQTableDescription
 |N3DV|QRGT|
 
 
-@SC_195715 @RVOD @C91M @JSI5
-Scenario Outline: 3PK1GxcILyName
-3SVoDhIVpOScenarioDescription
-Given UlLJuj1YLLStep
-When 9lhqnv56YFStep
-Then WEJbOwnCf9Step <arg1> <arg2>
+@SC_188082 @JHPM @VQ5Y @XFAK
+Scenario Outline: 46V7UzxuMFName
+TBKK4plpvWScenarioDescription
+Given gk0YGSFjwGStep
+When bPIhe2GcM9Step
+Then MEenfaasQLStep <arg1> <arg2>
 
-Examples: 7G6RlLE06YTable
-lnI6l0ImqFTableDescription
+Examples: M1l443JIbWTable
+0i3ERfBq5MTableDescription
 |arg1|arg2|
-|58FT|A7IK|
-|58FT|A7IK|
+|EBPW|BY5C|
+|EBPW|BY5C|
 
 
 @SC_197678 @BK7V @3VBB @GHTI
