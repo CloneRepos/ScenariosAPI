@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_233011 @KXHU @JXLC @V3OQ
-Scenario Outline: n5rtHid8QQName
-kp7rlXiCy8ScenarioDescription
-Given vV0pRDySsGStep
-When rzpuu57mbiStep
-Then 2bB9jMArJjStep <arg1> <arg2>
+@SC_235531 @X9EB @R8TY @T4TT
+Scenario Outline: UPLCGvPsxXName
+eHxRKZPyyDScenarioDescription
+Given 97Fq1mmfBlStep
+When XWgeYdnUNKStep
+Then Yzq0p824iDStep <arg1> <arg2>
 
-Examples: PiQF3osyTyTable
-diMkyCHEUgTableDescription
+Examples: 0WxukqUxU2Table
+K2ZZlquaKmTableDescription
 |arg1|arg2|
-|LMVJ|AWWR|
-|LMVJ|AWWR|
+|28IW|DP9J|
+|28IW|DP9J|
 
 @SC_184299 @DCXR @OMUJ @PKMP
 Scenario Outline: mBStCJ8uU8Name
@@ -449,18 +449,18 @@ uOlK9PETWhTableDescription
 |BKRX|IPFH|
 
 
-@SC_181775 @PA0F @8LX8 @8DJX
-Scenario Outline: 4GW47N9ceHName
-q8zHK1KucUScenarioDescription
-Given TbfhcNIcciStep
-When cKDP4VjSTVStep
-Then g56eaiLMAYStep <arg1> <arg2>
+@SC_233011 @KXHU @JXLC @V3OQ
+Scenario Outline: n5rtHid8QQName
+kp7rlXiCy8ScenarioDescription
+Given vV0pRDySsGStep
+When rzpuu57mbiStep
+Then 2bB9jMArJjStep <arg1> <arg2>
 
-Examples: 2cdFiBu483Table
-IOLZ27CxJqTableDescription
+Examples: PiQF3osyTyTable
+diMkyCHEUgTableDescription
 |arg1|arg2|
-|V3SX|LJFT|
-|V3SX|LJFT|
+|LMVJ|AWWR|
+|LMVJ|AWWR|
 
 
 @SC_184298 @2M50 @AJ65 @H18A
@@ -505,6 +505,20 @@ Examples: 66wUX4c48gTable
 |VV4X|6MDL|
 
 
+@SC_181775 @PA0F @8LX8 @8DJX
+Scenario Outline: 4GW47N9ceHName
+q8zHK1KucUScenarioDescription
+Given TbfhcNIcciStep
+When cKDP4VjSTVStep
+Then g56eaiLMAYStep <arg1> <arg2>
+
+Examples: 2cdFiBu483Table
+IOLZ27CxJqTableDescription
+|arg1|arg2|
+|V3SX|LJFT|
+|V3SX|LJFT|
+
+
 @SC_181774 @1OVS @NHJ7 @4SXM
 Scenario Outline: P9djaEvkA4Name
 7auDnJ5NrmScenarioDescription
@@ -545,20 +559,6 @@ z1IjQ2xX6aTableDescription
 |arg1|arg2|
 |MF3M|ZIRN|
 |MF3M|ZIRN|
-
-
-@SC_235531 @HGA8 @N69P @BPGF
-Scenario Outline: Iz7899VcUVName
-DVXL5XiunCScenarioDescription
-Given Ro6I7uPJmPStep
-When OKG6pYmwtuStep
-Then Y8mfZlewVhStep <arg1> <arg2>
-
-Examples: B74pzmo94QTable
-qYg5CecxXuTableDescription
-|arg1|arg2|
-|A5HB|TKHI|
-|A5HB|TKHI|
 
 
 @SC_188082 @NHH3 @PWY3 @ZMBQ
