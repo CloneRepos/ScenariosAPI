@@ -2,15 +2,15 @@
 Feature: gtIOUG98GuName
 Check that story can be created.
 
-@SC_242984 @S1DN @5IAJ @DEZA
-Scenario Outline: mq8SUsFG7pName
-NiBdvWCLZUScenarioDescription
-Given JykSzhJxtBStep
-When jSMatiJhzbStep
-Then 2RGnfJVBnsStep <arg1> <arg2>
+@SC_242984 @H9WW @90ZW @NF5Q
+Scenario Outline: 4q1uGMi7KNName
+i4r9NuL3t7ScenarioDescription
+Given 7hX8aRDkgTStep
+When XQJU16aIwNStep
+Then Ugxs9lO9mJStep <arg1> <arg2>
 
-Examples: NF9I9dWh3HTable
-7bL9ZkwYqVTableDescription
+Examples: OALBnArrUDTable
+HTwEDAMS35TableDescription
 |arg1|arg2|
-|MNMM|TEZK|
-|MNMM|TEZK|
+|IJVA|FUSN|
+|IJVA|FUSN|
