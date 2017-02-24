@@ -2,14 +2,14 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_218343 @tag4 @tag5 @tag6
-Scenario Outline: eT1DQokTrTName
+@SC_243611 @tag1 @tag2 @tag3
+Scenario Outline: 2Z1sxEgdsTName
 Description scenario yeah!
 Given first
 When second
 Then last <arg1> <arg2>
 
-Examples: S3D8VV0ysuTable
+Examples: R4Bs7ND0RZTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
@@ -93,6 +93,20 @@ When second
 Then last <arg1> <arg2>
 
 Examples: UgzOXEgvNXTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+
+@SC_218343 @tag4 @tag5 @tag6
+Scenario Outline: eT1DQokTrTName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: S3D8VV0ysuTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
