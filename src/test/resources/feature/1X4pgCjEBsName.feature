@@ -2,47 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_181775 @LEM1 @SDOU @HKDR
-Scenario Outline: bwyhUTjZl7Name
-Gp1HuCM81wScenarioDescription
-Given zbr6sHkkBcStep
-When mwiq4L3eMEStep
-Then papGjbJyMNStep <arg1> <arg2>
+@SC_248006 @tag1 @tag2 @tag3
+Scenario Outline: zJc4QyHktCName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
 
-Examples: TelwdNkdJNTable
-qPFrFU7NyPTableDescription
+Examples: jIpG6goz98Table
+Table description yeah!
 |arg1|arg2|
-|UDS6|TWJ0|
-|UDS6|TWJ0|
-
-
-@SC_183036 @X9ZO @WYDR @VJPC
-Scenario Outline: IXs8KhsgmnName
-PosvGtOrzDScenarioDescription
-Given 2SQ3eX8RyFStep
-When VVIyzmJ24hStep
-Then K28nRh3XtrStep <arg1> <arg2>
-
-Examples: zgQrmYbFlATable
-Zrei86YTbvTableDescription
-|arg1|arg2|
-|YVXP|TMLH|
-|YVXP|TMLH|
-
-
-@SC_183037 @TOGH @0RQN @DWMZ
-Scenario Outline: ESBNmBFFwiName
-jbqPhnAJ6EScenarioDescription
-Given z1W7qTgwnnStep
-When fTj1c0EWjMStep
-Then FTmSnvCOADStep <arg1> <arg2>
-
-Examples: po8Q6yiSzfTable
-6cVyP86a9DTableDescription
-|arg1|arg2|
-|4QAR|YMG3|
-|4QAR|YMG3|
-
+|123|456|
+|123|456|
 
 @SC_184298 @LS50 @7YCE @GKVZ
 Scenario Outline: auPuEkPLrTName
@@ -504,6 +475,48 @@ Tt2g7nAN59TableDescription
 |arg1|arg2|
 |DFWH|GO72|
 |DFWH|GO72|
+
+
+@SC_183037 @TOGH @0RQN @DWMZ
+Scenario Outline: ESBNmBFFwiName
+jbqPhnAJ6EScenarioDescription
+Given z1W7qTgwnnStep
+When fTj1c0EWjMStep
+Then FTmSnvCOADStep <arg1> <arg2>
+
+Examples: po8Q6yiSzfTable
+6cVyP86a9DTableDescription
+|arg1|arg2|
+|4QAR|YMG3|
+|4QAR|YMG3|
+
+
+@SC_183036 @X9ZO @WYDR @VJPC
+Scenario Outline: IXs8KhsgmnName
+PosvGtOrzDScenarioDescription
+Given 2SQ3eX8RyFStep
+When VVIyzmJ24hStep
+Then K28nRh3XtrStep <arg1> <arg2>
+
+Examples: zgQrmYbFlATable
+Zrei86YTbvTableDescription
+|arg1|arg2|
+|YVXP|TMLH|
+|YVXP|TMLH|
+
+
+@SC_181775 @LEM1 @SDOU @HKDR
+Scenario Outline: bwyhUTjZl7Name
+Gp1HuCM81wScenarioDescription
+Given zbr6sHkkBcStep
+When mwiq4L3eMEStep
+Then papGjbJyMNStep <arg1> <arg2>
+
+Examples: TelwdNkdJNTable
+qPFrFU7NyPTableDescription
+|arg1|arg2|
+|UDS6|TWJ0|
+|UDS6|TWJ0|
 
 
 @SC_233010 @KKCZ @MJUF @6MPM
