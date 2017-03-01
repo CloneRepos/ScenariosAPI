@@ -2,18 +2,18 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_218342 @ZRFK @GK2S @QECX
-Scenario Outline: 454A2pnMwJName
-B9jCkfKOD4ScenarioDescription
-Given m6mHRntCfYStep
-When XEumtewYrwStep
-Then 7s9hQaFxkiStep <arg1> <arg2>
+@SC_218343 @DN1T @GQV0 @I5LF
+Scenario Outline: c6DPb3N3zqName
+JV20cXVDGoScenarioDescription
+Given iFmCgrCnMIStep
+When 72GVnpgwnhStep
+Then NPKZWKORQ8Step <arg1> <arg2>
 
-Examples: G4V8EPBIoSTable
-TFOrTpvLmvTableDescription
+Examples: LB8bauE4cCTable
+zyoSc4RVRVTableDescription
 |arg1|arg2|
-|OQCC|RDDX|
-|OQCC|RDDX|
+|UJHJ|2IAW|
+|UJHJ|2IAW|
 
 @SC_169980 @QREB @HRHU @YLLT
 Scenario Outline: kNOrDMU8EJName
@@ -57,18 +57,18 @@ AGn2fWPrt7TableDescription
 |IFPZ|6ULA|
 
 
-@SC_218343 @tag4 @tag5 @tag6
-Scenario Outline: eT1DQokTrTName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
+@SC_218342 @ZRFK @GK2S @QECX
+Scenario Outline: 454A2pnMwJName
+B9jCkfKOD4ScenarioDescription
+Given m6mHRntCfYStep
+When XEumtewYrwStep
+Then 7s9hQaFxkiStep <arg1> <arg2>
 
-Examples: S3D8VV0ysuTable
-Table description yeah!
+Examples: G4V8EPBIoSTable
+TFOrTpvLmvTableDescription
 |arg1|arg2|
-|123|456|
-|123|456|
+|OQCC|RDDX|
+|OQCC|RDDX|
 
 
 @SC_264063 @tag4 @tag5 @tag6
@@ -99,34 +99,6 @@ Table description yeah!
 |123|456|
 
 
-@SC_243612 @tag4 @tag5 @tag6
-Scenario Outline: BNdalUpWNTName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
-
-Examples: Zyv5xoJkvFTable
-Table description yeah!
-|arg1|arg2|
-|123|456|
-|123|456|
-
-
-@SC_243611 @tag1 @tag2 @tag3
-Scenario Outline: 2Z1sxEgdsTName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
-
-Examples: R4Bs7ND0RZTable
-Table description yeah!
-|arg1|arg2|
-|123|456|
-|123|456|
-
-
 @SC_250054 @tag4 @tag5 @tag6
 Scenario Outline: aqzbBEzXhzName
 Description scenario yeah!
@@ -149,6 +121,34 @@ When second
 Then last <arg1> <arg2>
 
 Examples: kdN26T2ipyTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+
+@SC_243612 @tag4 @tag5 @tag6
+Scenario Outline: BNdalUpWNTName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: Zyv5xoJkvFTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+
+@SC_243611 @tag1 @tag2 @tag3
+Scenario Outline: 2Z1sxEgdsTName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: R4Bs7ND0RZTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
