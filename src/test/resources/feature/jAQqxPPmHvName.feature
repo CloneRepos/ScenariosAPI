@@ -2,18 +2,18 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_243611 @JDJT @4KFR @WFPB
-Scenario Outline: VNFGTb95xBName
-iMYfMKCrKzScenarioDescription
-Given DJJ6cWii8MStep
-When bNXK6TGweQStep
-Then BFim4MeqLGStep <arg1> <arg2>
+@SC_243612 @IMUZ @UVL0 @KSJW
+Scenario Outline: knqQZDfN8WName
+CZV81gyPfEScenarioDescription
+Given GkQWVy1rD0Step
+When p7I76iBR4YStep
+Then omMRh4m4ogStep <arg1> <arg2>
 
-Examples: MYnpLVN3TUTable
-BKhZGeQbDSTableDescription
+Examples: sXzWamJjx3Table
+WpeyHS2LX0TableDescription
 |arg1|arg2|
-|WQME|HSGN|
-|WQME|HSGN|
+|9EH9|TSHX|
+|9EH9|TSHX|
 
 @SC_169980 @QREB @HRHU @YLLT
 Scenario Outline: kNOrDMU8EJName
@@ -85,18 +85,18 @@ zyoSc4RVRVTableDescription
 |UJHJ|2IAW|
 
 
-@SC_243612 @tag4 @tag5 @tag6
-Scenario Outline: BNdalUpWNTName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
+@SC_243611 @JDJT @4KFR @WFPB
+Scenario Outline: VNFGTb95xBName
+iMYfMKCrKzScenarioDescription
+Given DJJ6cWii8MStep
+When bNXK6TGweQStep
+Then BFim4MeqLGStep <arg1> <arg2>
 
-Examples: Zyv5xoJkvFTable
-Table description yeah!
+Examples: MYnpLVN3TUTable
+BKhZGeQbDSTableDescription
 |arg1|arg2|
-|123|456|
-|123|456|
+|WQME|HSGN|
+|WQME|HSGN|
 
 
 @SC_250053 @tag1 @tag2 @tag3
