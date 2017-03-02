@@ -2,6 +2,19 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
+@SC_243611 @2DFF @JGVF @C0W2
+Scenario Outline: j5dP6gQNWzName
+z8LNcCerVyScenarioDescription
+Given jrUATS4YSUStep
+When tefkMKKIy6Step
+Then RAx6obfUaAStep <arg1> <arg2>
+
+Examples: 1baE94RCvQTable
+YjUWjxB4lqTableDescription
+|arg1|arg2|
+|Q9G9|R9V5|
+|Q9G9|R9V5|
+
 @SC_218343 @WVX2 @OXCF @56DE
 Scenario Outline: 2IMpeedLOTName
 oa0AQpzoVuScenarioDescription
@@ -14,19 +27,6 @@ nJc2A1EW0UTableDescription
 |arg1|arg2|
 |6DAD|WMOZ|
 |6DAD|WMOZ|
-
-@SC_243611 @JDJT @4KFR @WFPB
-Scenario Outline: VNFGTb95xBName
-iMYfMKCrKzScenarioDescription
-Given DJJ6cWii8MStep
-When bNXK6TGweQStep
-Then BFim4MeqLGStep <arg1> <arg2>
-
-Examples: MYnpLVN3TUTable
-BKhZGeQbDSTableDescription
-|arg1|arg2|
-|WQME|HSGN|
-|WQME|HSGN|
 
 
 @SC_243612 @IMUZ @UVL0 @KSJW
@@ -127,6 +127,34 @@ Table description yeah!
 |123|456|
 
 
+@SC_264706 @tag1 @tag2 @tag3
+Scenario Outline: zaWj1ewylYName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: ggwVVg6pB9Table
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+
+@SC_264707 @tag4 @tag5 @tag6
+Scenario Outline: PzvMCX9jMoName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: B33C6QFNKwTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+
 @SC_265585 @tag1 @tag2 @tag3
 Scenario Outline: IivgqluICgName
 Description scenario yeah!
@@ -163,34 +191,6 @@ When second
 Then last <arg1> <arg2>
 
 Examples: aKVQkw9kCLTable
-Table description yeah!
-|arg1|arg2|
-|123|456|
-|123|456|
-
-
-@SC_264707 @tag4 @tag5 @tag6
-Scenario Outline: PzvMCX9jMoName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
-
-Examples: B33C6QFNKwTable
-Table description yeah!
-|arg1|arg2|
-|123|456|
-|123|456|
-
-
-@SC_264706 @tag1 @tag2 @tag3
-Scenario Outline: zaWj1ewylYName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
-
-Examples: ggwVVg6pB9Table
 Table description yeah!
 |arg1|arg2|
 |123|456|
