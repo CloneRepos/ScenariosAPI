@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_223484 @RUI5 @0XXK @2ACN
-Scenario Outline: 7VssU1M5OiName
-fB77IjiccFScenarioDescription
-Given bcG2hqLh72Step
-When 38Csk1mUXwStep
-Then svhpCLQamfStep <arg1> <arg2>
+@SC_223485 @BBNJ @A1ZP @DZTL
+Scenario Outline: itR4Ys0szCName
+DLyHgnn0XlScenarioDescription
+Given nANWMDTOUxStep
+When OdWaCJaPSMStep
+Then O4cUyOVbbpStep <arg1> <arg2>
 
-Examples: nKqmfHli1rTable
-eVvOTAW75eTableDescription
+Examples: GuhM8GVUBOTable
+QxTTmgfcnfTableDescription
 |arg1|arg2|
-|38EA|MUJZ|
-|38EA|MUJZ|
+|R5YQ|LECB|
+|R5YQ|LECB|
 
 @SC_215396 @45XH @XGG8 @KFPT
 Scenario Outline: KtWxNDs2HgName
@@ -71,46 +71,18 @@ rf9XJTG4X0TableDescription
 |AN6X|A4T6|
 
 
-@SC_223485 @CSXL @H8LR @JNWR
-Scenario Outline: x8U9rEYcy9Name
-63IeoEveuOScenarioDescription
-Given q1HlY5ZhozStep
-When tYatmza4uNStep
-Then ef1hJySVfeStep <arg1> <arg2>
+@SC_223484 @RUI5 @0XXK @2ACN
+Scenario Outline: 7VssU1M5OiName
+fB77IjiccFScenarioDescription
+Given bcG2hqLh72Step
+When 38Csk1mUXwStep
+Then svhpCLQamfStep <arg1> <arg2>
 
-Examples: G6Of9VAhELTable
-tQ5z3RIP8qTableDescription
+Examples: nKqmfHli1rTable
+eVvOTAW75eTableDescription
 |arg1|arg2|
-|9FSF|8M3K|
-|9FSF|8M3K|
-
-
-@SC_186821 @AKEX @XMOS @YAZR
-Scenario Outline: xTk5ZF6PxKName
-JM1wVG67f7ScenarioDescription
-Given hC620MMN1iStep
-When 2jXEd51l5mStep
-Then czlDC69YUZStep <arg1> <arg2>
-
-Examples: FJu3yxFfwzTable
-rBUnokJWRWTableDescription
-|arg1|arg2|
-|BJLH|N9XG|
-|BJLH|N9XG|
-
-
-@SC_186820 @RFIP @TKAD @U5YX
-Scenario Outline: K92J663ytaName
-3kyQ9alF9pScenarioDescription
-Given aJ4BNHGAOaStep
-When ZDRYvWkYWDStep
-Then 3dREbQZaJFStep <arg1> <arg2>
-
-Examples: qv1u15SpPSTable
-8qH52xSl76TableDescription
-|arg1|arg2|
-|F6FF|5RHQ|
-|F6FF|5RHQ|
+|38EA|MUJZ|
+|38EA|MUJZ|
 
 
 @SC_184299 @GPBB @ZSTG @ILBJ
@@ -435,18 +407,60 @@ Examples: gDmADTf88NTable
 |CIHK|JBN3|
 
 
-@SC_235531 @QRBP @FDWP @NQ5Y
-Scenario Outline: P91ROyieP7Name
-CWJM7h6pwzScenarioDescription
-Given xdfz8OM2hmStep
-When Wz4Ee4w14CStep
-Then OAUKBwbjoaStep <arg1> <arg2>
+@SC_186821 @AKEX @XMOS @YAZR
+Scenario Outline: xTk5ZF6PxKName
+JM1wVG67f7ScenarioDescription
+Given hC620MMN1iStep
+When 2jXEd51l5mStep
+Then czlDC69YUZStep <arg1> <arg2>
 
-Examples: 0M19ZQXu0dTable
-7OQLzwh9dsTableDescription
+Examples: FJu3yxFfwzTable
+rBUnokJWRWTableDescription
 |arg1|arg2|
-|LJDO|JTQO|
-|LJDO|JTQO|
+|BJLH|N9XG|
+|BJLH|N9XG|
+
+
+@SC_186820 @RFIP @TKAD @U5YX
+Scenario Outline: K92J663ytaName
+3kyQ9alF9pScenarioDescription
+Given aJ4BNHGAOaStep
+When ZDRYvWkYWDStep
+Then 3dREbQZaJFStep <arg1> <arg2>
+
+Examples: qv1u15SpPSTable
+8qH52xSl76TableDescription
+|arg1|arg2|
+|F6FF|5RHQ|
+|F6FF|5RHQ|
+
+
+@SC_233010 @BDEG @VM6U @PNOL
+Scenario Outline: BMCmIkQqFnName
+FI6KsfPX6aScenarioDescription
+Given KmZFolE3VVStep
+When Ii5abh7XO5Step
+Then 34hOhmpoOWStep <arg1> <arg2>
+
+Examples: GKnO53AJWWTable
+TgWXgltYH6TableDescription
+|arg1|arg2|
+|BLLR|HCDD|
+|BLLR|HCDD|
+
+
+@SC_233011 @GXTM @LTTA @YJX9
+Scenario Outline: JcV9o4fOgEName
+zZ2Wd2u0PmScenarioDescription
+Given oRpDtGpfyAStep
+When l2t9iq8SdfStep
+Then H3y8FyX4AIStep <arg1> <arg2>
+
+Examples: 1IoCSR57HLTable
+TQFUSI26iITableDescription
+|arg1|arg2|
+|D4QW|9LCI|
+|D4QW|9LCI|
 
 
 @SC_231481 @ETU0 @JBID @NGMZ
@@ -477,32 +491,18 @@ i6mWwqxEdLTableDescription
 |LPOL|64VQ|
 
 
-@SC_233010 @BDEG @VM6U @PNOL
-Scenario Outline: BMCmIkQqFnName
-FI6KsfPX6aScenarioDescription
-Given KmZFolE3VVStep
-When Ii5abh7XO5Step
-Then 34hOhmpoOWStep <arg1> <arg2>
+@SC_235531 @QRBP @FDWP @NQ5Y
+Scenario Outline: P91ROyieP7Name
+CWJM7h6pwzScenarioDescription
+Given xdfz8OM2hmStep
+When Wz4Ee4w14CStep
+Then OAUKBwbjoaStep <arg1> <arg2>
 
-Examples: GKnO53AJWWTable
-TgWXgltYH6TableDescription
+Examples: 0M19ZQXu0dTable
+7OQLzwh9dsTableDescription
 |arg1|arg2|
-|BLLR|HCDD|
-|BLLR|HCDD|
-
-
-@SC_233011 @GXTM @LTTA @YJX9
-Scenario Outline: JcV9o4fOgEName
-zZ2Wd2u0PmScenarioDescription
-Given oRpDtGpfyAStep
-When l2t9iq8SdfStep
-Then H3y8FyX4AIStep <arg1> <arg2>
-
-Examples: 1IoCSR57HLTable
-TQFUSI26iITableDescription
-|arg1|arg2|
-|D4QW|9LCI|
-|D4QW|9LCI|
+|LJDO|JTQO|
+|LJDO|JTQO|
 
 
 @SC_236697 @U07V @RO4L @A1YL
