@@ -2,32 +2,18 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_250053 @JAEH @CXOD @MCP7
-Scenario Outline: uqdRBCZVKdName
-MCGk0jGgAbScenarioDescription
-Given OizFbLhj4mStep
-When bipPEsaT2vStep
-Then Fwo3lEYWYzStep <arg1> <arg2>
+@SC_250054 @OKQP @JFUT @SLA3
+Scenario Outline: Z0kDPSgf4nName
+4gKa5YFBvcScenarioDescription
+Given xT5pjF2zvmStep
+When 6rjSpTQaKDStep
+Then YKY6VyQ9LWStep <arg1> <arg2>
 
-Examples: 6Vgo6emvK7Table
-dcPw5euTJETableDescription
+Examples: 1KQqzIxvYLTable
+ZuAliwj3ETTableDescription
 |arg1|arg2|
-|I6VB|XG1E|
-|I6VB|XG1E|
-
-@SC_250054 @YPZM @4WOO @5NEQ
-Scenario Outline: GtE2olGpl8Name
-OEOgATo4CqScenarioDescription
-Given wBty3GOvgmStep
-When Xi2jIVqn32Step
-Then OJGyt5kfvPStep <arg1> <arg2>
-
-Examples: JWqcvtsxvbTable
-fSTZvuj26oTableDescription
-|arg1|arg2|
-|SO9G|N2SH|
-|SO9G|N2SH|
-
+|LT6Z|SESM|
+|LT6Z|SESM|
 
 @SC_265585 @PGZI @O6RH @ZKVI
 Scenario Outline: V7xC2yWjQ3Name
@@ -279,6 +265,20 @@ LEhJ3kN3XnTableDescription
 |arg1|arg2|
 |GDT3|PIKH|
 |GDT3|PIKH|
+
+
+@SC_250053 @JAEH @CXOD @MCP7
+Scenario Outline: uqdRBCZVKdName
+MCGk0jGgAbScenarioDescription
+Given OizFbLhj4mStep
+When bipPEsaT2vStep
+Then Fwo3lEYWYzStep <arg1> <arg2>
+
+Examples: 6Vgo6emvK7Table
+dcPw5euTJETableDescription
+|arg1|arg2|
+|I6VB|XG1E|
+|I6VB|XG1E|
 
 
 @SC_243612 @9LG1 @AWSP @QP4R
