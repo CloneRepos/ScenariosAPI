@@ -2,19 +2,6 @@
 Feature: JykcacrSD3Name
 Check that story can be created.
 
-@SC_235530 @W9MQ @L3JL @2QUW
-Scenario Outline: SQVcpdGGJkName
-l5QfWERlzyScenarioDescription
-Given jC79Ij2NCAStep
-When Yph8CewhguStep
-Then 7psquV32NUStep <arg1> <arg2>
-
-Examples: ulOYMiTUaTTable
-h5IpR1Lzl9TableDescription
-|arg1|arg2|
-|NOMF|KEYJ|
-|NOMF|KEYJ|
-
 @SC_168378 @IOW5 @BNAL @FS42
 Scenario Outline: LP0x2m9ki9Name
 2btQYILWkjScenarioDescription
@@ -55,3 +42,17 @@ PpolEiB76KTableDescription
 |arg1|arg2|
 |ZZOI|B8DO|
 |ZZOI|B8DO|
+
+
+@SC_235530 @W9MQ @L3JL @2QUW
+Scenario Outline: SQVcpdGGJkName
+l5QfWERlzyScenarioDescription
+Given jC79Ij2NCAStep
+When Yph8CewhguStep
+Then 7psquV32NUStep <arg1> <arg2>
+
+Examples: ulOYMiTUaTTable
+h5IpR1Lzl9TableDescription
+|arg1|arg2|
+|NOMF|KEYJ|
+|NOMF|KEYJ|
