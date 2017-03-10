@@ -5,9 +5,9 @@ Check that story can be created.
 @SC_45221 @BVGT @PUBM @ZYR7
 Scenario Outline: g6sJystbKgName
 vfskWzoJK7ScenarioDescription
-Given VvI4iBdVpCStep
-When 8XkpXarEluStep
 Then CYACYlO0HHStep <arg1> <arg2>
+When 8XkpXarEluStep
+Given VvI4iBdVpCStep
 
 Examples: 2pZLhOjdduTable
 XXXIpEhVRJTableDescription
