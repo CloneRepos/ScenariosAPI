@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_229431 @66OO @E1IV @PIP5
-Scenario Outline: iPC7zp0dHiName
-R7hBBqO4RSScenarioDescription
-Given SfpajEL2ExStep
-When qEETPrWgjaStep
-Then WJFrQM9UZYStep <arg1> <arg2>
+@SC_229432 @XR0I @NDNP @O3NF
+Scenario Outline: mcQMMG2kkiName
+gzEoYGegBnScenarioDescription
+Given 31XZwN7gN8Step
+When GaTrH07h7OStep
+Then 4g1G2GeJf4Step <arg1> <arg2>
 
-Examples: i4D7MEo8TwTable
-VP6XeBNxW7TableDescription
+Examples: 50XEF7NWYCTable
+40znC5rnw8TableDescription
 |arg1|arg2|
-|CRT4|B9BS|
-|CRT4|B9BS|
+|7HWN|KTPL|
+|7HWN|KTPL|
 
 @SC_227224 @V0JE @FLW8 @6LOP
 Scenario Outline: Vvh83rLbw8Name
@@ -43,18 +43,18 @@ glaI1gedkHTableDescription
 |XXNU|Q1YB|
 
 
-@SC_229432 @K593 @HNBL @VP8J
-Scenario Outline: Mj717E8x2LName
-muAqgZ0OglScenarioDescription
-Given atLfzTTXBeStep
-When tCo3g2yoacStep
-Then TWQ3kdmPy9Step <arg1> <arg2>
+@SC_229431 @66OO @E1IV @PIP5
+Scenario Outline: iPC7zp0dHiName
+R7hBBqO4RSScenarioDescription
+Given SfpajEL2ExStep
+When qEETPrWgjaStep
+Then WJFrQM9UZYStep <arg1> <arg2>
 
-Examples: Et966O4LOxTable
-CvOQ0QlMKSTableDescription
+Examples: i4D7MEo8TwTable
+VP6XeBNxW7TableDescription
 |arg1|arg2|
-|BJVP|CJ4D|
-|BJVP|CJ4D|
+|CRT4|B9BS|
+|CRT4|B9BS|
 
 
 @SC_195715 @EES8 @QJOI @STY3
@@ -421,20 +421,6 @@ fTeWIVypHCTableDescription
 |T979|MO8B|
 
 
-@SC_235531 @ZFDV @EWAF @XLCE
-Scenario Outline: qVq41DoT9tName
-SWdX9a2t45ScenarioDescription
-Given 4iygu8d7EHStep
-When PuC2rcRZZEStep
-Then uoPYGL4RqpStep <arg1> <arg2>
-
-Examples: UCf9AzFOIITable
-8iGhkQNRX2TableDescription
-|arg1|arg2|
-|XGJV|ZKLW|
-|XGJV|ZKLW|
-
-
 @SC_236698 @EKXE @MCZB @ZMIH
 Scenario Outline: wypVCqYvP2Name
 Fs4yh9P6aHScenarioDescription
@@ -447,6 +433,20 @@ gVHiLvTb2GTableDescription
 |arg1|arg2|
 |WBXN|DMF6|
 |WBXN|DMF6|
+
+
+@SC_235531 @ZFDV @EWAF @XLCE
+Scenario Outline: qVq41DoT9tName
+SWdX9a2t45ScenarioDescription
+Given 4iygu8d7EHStep
+When PuC2rcRZZEStep
+Then uoPYGL4RqpStep <arg1> <arg2>
+
+Examples: UCf9AzFOIITable
+8iGhkQNRX2TableDescription
+|arg1|arg2|
+|XGJV|ZKLW|
+|XGJV|ZKLW|
 
 
 @SC_236697 @BTV7 @YW4A @ZVAI
