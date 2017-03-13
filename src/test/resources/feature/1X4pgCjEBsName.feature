@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_208256 @8RWO @FUCV @Z1XN
-Scenario Outline: boBMlX8LO4Name
-SVVxT1TH5UScenarioDescription
-Given 0fldaxmF1vStep
-When U4DKyp1JVtStep
-Then pTtCwsMkjGStep <arg1> <arg2>
+@SC_208257 @IIKU @TT6M @B3SS
+Scenario Outline: zycle5SEYeName
+OAYaONNeJXScenarioDescription
+Given 9Jk57BwXYsStep
+When d4eKdO2b3oStep
+Then jZJ8kt28OOStep <arg1> <arg2>
 
-Examples: EgnN5YC79HTable
-1Q5lvtqaBtTableDescription
+Examples: xE6eYzCmE8Table
+J10M0J2StZTableDescription
 |arg1|arg2|
-|MIRB|TDWA|
-|MIRB|TDWA|
+|LGN1|Q8BO|
+|LGN1|Q8BO|
 
 @SC_206243 @LIG0 @HV5U @EBS2
 Scenario Outline: p1A6CEVE0hName
@@ -43,18 +43,18 @@ FsF7DvyUxpTableDescription
 |LI7Y|7CJ6|
 
 
-@SC_208257 @MIAQ @0EB2 @KVR7
-Scenario Outline: sbxyHGpjv7Name
-ffA7MH338RScenarioDescription
-Given TIE6yqkoBkStep
-When nM8fsRyT4pStep
-Then bWWhYeXP8DStep <arg1> <arg2>
+@SC_208256 @8RWO @FUCV @Z1XN
+Scenario Outline: boBMlX8LO4Name
+SVVxT1TH5UScenarioDescription
+Given 0fldaxmF1vStep
+When U4DKyp1JVtStep
+Then pTtCwsMkjGStep <arg1> <arg2>
 
-Examples: vDH5QRKJUPTable
-LW2uLm0LfHTableDescription
+Examples: EgnN5YC79HTable
+1Q5lvtqaBtTableDescription
 |arg1|arg2|
-|FFSO|ANYH|
-|FFSO|ANYH|
+|MIRB|TDWA|
+|MIRB|TDWA|
 
 
 @SC_233011 @NJAT @MP2X @DFWL
@@ -589,20 +589,6 @@ e6teWiKIwPTableDescription
 |XRQA|LRZT|
 
 
-@SC_292511 @RZPP @QYFV @XING
-Scenario Outline: R3tnPyxxIpName
-AZmrkQHgqbScenarioDescription
-Given pojssGvHvCStep
-When JdaxPlDbf9Step
-Then 4zTsnHocCBStep <arg1> <arg2>
-
-Examples: kqsJtSWuwmTable
-Sejlmh6h2tTableDescription
-|arg1|arg2|
-|L8NL|CKSO|
-|L8NL|CKSO|
-
-
 @SC_294455 @tag1 @tag2 @tag3
 Scenario Outline: 70Tmupr1UOName
 Description scenario yeah!
@@ -615,3 +601,17 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
+
+@SC_292511 @RZPP @QYFV @XING
+Scenario Outline: R3tnPyxxIpName
+AZmrkQHgqbScenarioDescription
+Given pojssGvHvCStep
+When JdaxPlDbf9Step
+Then 4zTsnHocCBStep <arg1> <arg2>
+
+Examples: kqsJtSWuwmTable
+Sejlmh6h2tTableDescription
+|arg1|arg2|
+|L8NL|CKSO|
+|L8NL|CKSO|
