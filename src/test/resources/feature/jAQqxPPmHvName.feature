@@ -2,18 +2,18 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_274180 @G6VI @COXO @EQXM
-Scenario Outline: rY0OPfNjA6Name
-amrli3LveiScenarioDescription
-Given 6oWVbPCLc2Step
-When oQMwahcqc9Step
-Then NCqpFqkteeStep <arg1> <arg2>
+@SC_274807 @GUE3 @WWIM @FBF8
+Scenario Outline: DcGJCSsA6yName
+lb5WWpT05lScenarioDescription
+Given URhhu27W7bStep
+When 1XqDyeuQDlStep
+Then Xfbu3MC9QNStep <arg1> <arg2>
 
-Examples: gVtXiSfqZlTable
-yONwqyYWLNTableDescription
+Examples: g6IBc5GsvWTable
+sgwDJCFSbeTableDescription
 |arg1|arg2|
-|QGVZ|EFYO|
-|QGVZ|EFYO|
+|8GNK|FR79|
+|8GNK|FR79|
 
 @SC_265585 @E2RT @PD4I @KHZS
 Scenario Outline: ghzOUXfAzBName
@@ -127,6 +127,20 @@ bKy4yzvVQDTableDescription
 |VWXZ|PATL|
 
 
+@SC_274180 @G6VI @COXO @EQXM
+Scenario Outline: rY0OPfNjA6Name
+amrli3LveiScenarioDescription
+Given 6oWVbPCLc2Step
+When oQMwahcqc9Step
+Then NCqpFqkteeStep <arg1> <arg2>
+
+Examples: gVtXiSfqZlTable
+yONwqyYWLNTableDescription
+|arg1|arg2|
+|QGVZ|EFYO|
+|QGVZ|EFYO|
+
+
 @SC_284360 @Q33L @KEJ0 @CV2N
 Scenario Outline: rKCb9X7iM6Name
 atfUmz92KPScenarioDescription
@@ -153,34 +167,6 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
-
-
-@SC_283706 @4MHZ @4A6F @MCH0
-Scenario Outline: RTLVRpiJpJName
-HS9xsDPF2ZScenarioDescription
-Then pqc9rvoGoxStep <arg1> <arg2>
-When Ykq4qH6L76Step
-Given v5NIrOBRWYStep
-
-Examples: oUBoFbp17nTable
-u7zXSgjyyOTableDescription
-|arg1|arg2|
-|HR5O|YDY5|
-|HR5O|YDY5|
-
-
-@SC_274807 @DNSU @VOHR @NH7M
-Scenario Outline: R37Wx9OWv5Name
-o90TC81eWUScenarioDescription
-Then GccWYm8MGuStep <arg1> <arg2>
-When WQgmixh8pKStep
-Given 3ZCfmEyAkuStep
-
-Examples: WjItqtcPG3Table
-jNsfpmFXtnTableDescription
-|arg1|arg2|
-|RB6J|A3ZN|
-|RB6J|A3ZN|
 
 
 @SC_269426 @M4OQ @XVW6 @P8AY
@@ -321,3 +307,17 @@ JwTHPXYsD8TableDescription
 |arg1|arg2|
 |RKVQ|GJT3|
 |RKVQ|GJT3|
+
+
+@SC_283706 @4MHZ @4A6F @MCH0
+Scenario Outline: RTLVRpiJpJName
+HS9xsDPF2ZScenarioDescription
+Then pqc9rvoGoxStep <arg1> <arg2>
+When Ykq4qH6L76Step
+Given v5NIrOBRWYStep
+
+Examples: oUBoFbp17nTable
+u7zXSgjyyOTableDescription
+|arg1|arg2|
+|HR5O|YDY5|
+|HR5O|YDY5|
