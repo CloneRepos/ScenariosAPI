@@ -2,18 +2,18 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_274807 @RXKZ @K0W0 @RHQN
-Scenario Outline: kCEuMwsD7TName
-o7rEhAciMvScenarioDescription
-Given Jhy2ou1Fz8Step
-When GOf6PasHM0Step
-Then rPLY0Le4mBStep <arg1> <arg2>
+@SC_283706 @YMBF @XRIG @HNSE
+Scenario Outline: QRD8N600EzName
+THclrrJV7TScenarioDescription
+Given W3WSItHKFPStep
+When 8c7MRhpErsStep
+Then IpwSffeiD4Step <arg1> <arg2>
 
-Examples: EI1NYY6jFdTable
-nv1a1me4zlTableDescription
+Examples: z6wa2CO3seTable
+vqxbhpJHooTableDescription
 |arg1|arg2|
-|WEXF|LQO1|
-|WEXF|LQO1|
+|ZHTA|TGB6|
+|ZHTA|TGB6|
 
 @SC_265585 @7MPH @ZIGG @0TNW
 Scenario Outline: 0w7ED61wDWName
@@ -57,6 +57,20 @@ HBg1R65HLlTableDescription
 |VPXJ|PZFM|
 
 
+@SC_274807 @RXKZ @K0W0 @RHQN
+Scenario Outline: kCEuMwsD7TName
+o7rEhAciMvScenarioDescription
+Given Jhy2ou1Fz8Step
+When GOf6PasHM0Step
+Then rPLY0Le4mBStep <arg1> <arg2>
+
+Examples: EI1NYY6jFdTable
+nv1a1me4zlTableDescription
+|arg1|arg2|
+|WEXF|LQO1|
+|WEXF|LQO1|
+
+
 @SC_284360 @2NLH @K7JC @ENBG
 Scenario Outline: ZwTNhTALZwName
 Q8ykdMg4NYScenarioDescription
@@ -83,20 +97,6 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
-
-
-@SC_320496 @PWEV @EGIU @EA8J
-Scenario Outline: DbtVrxfAFjName
-9VieKZamUTScenarioDescription
-Given OXkUDQIfbTStep
-When fL702TFWjnStep
-Then uuWNh5CUqeStep <arg1> <arg2>
-
-Examples: 1J8Wb2dGjtTable
-APBMlsSqv9TableDescription
-|arg1|arg2|
-|COBU|VFN1|
-|COBU|VFN1|
 
 
 @SC_317517 @HCHU @S0VR @WWZU
@@ -153,20 +153,6 @@ Examples: 4D5zRlY7kdTable
 |arg1|arg2|
 |EM56|FHZE|
 |EM56|FHZE|
-
-
-@SC_283706 @VDWT @VWGO @JQUN
-Scenario Outline: UgudcaXrEPName
-bkvhRRvRjcScenarioDescription
-Given S7YC7M6umtStep
-When TVW8UGKuShStep
-Then B6zfGMum9zStep <arg1> <arg2>
-
-Examples: RBiDtUBQuXTable
-4jJ1jXNxvdTableDescription
-|arg1|arg2|
-|WCF8|VPYH|
-|WCF8|VPYH|
 
 
 @SC_272218 @VDPH @DWTV @6TJF
@@ -335,3 +321,17 @@ GHhV2jBobtTableDescription
 |arg1|arg2|
 |LAOU|JGFO|
 |LAOU|JGFO|
+
+
+@SC_320496 @PWEV @EGIU @EA8J
+Scenario Outline: DbtVrxfAFjName
+9VieKZamUTScenarioDescription
+Given OXkUDQIfbTStep
+When fL702TFWjnStep
+Then uuWNh5CUqeStep <arg1> <arg2>
+
+Examples: 1J8Wb2dGjtTable
+APBMlsSqv9TableDescription
+|arg1|arg2|
+|COBU|VFN1|
+|COBU|VFN1|
