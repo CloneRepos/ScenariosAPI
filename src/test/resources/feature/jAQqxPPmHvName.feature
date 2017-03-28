@@ -2,18 +2,18 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_269426 @VQHW @58TG @XPXD
-Scenario Outline: zbnSep3idKName
-G6kvF5ROrzScenarioDescription
-Given Xt9jOTa3sPStep
-When NZ9ZyqpvP0Step
-Then KBwekdy5YVStep <arg1> <arg2>
+@SC_272213 @CY3W @4GEV @RBMX
+Scenario Outline: XRHCbSYVA2Name
+0ksb0kZZmDScenarioDescription
+Given 4TRLCeXrnYStep
+When 6DdjiWg44FStep
+Then 7AZgHrYnJlStep <arg1> <arg2>
 
-Examples: NJKEgVM27tTable
-zvHNRPYhRFTableDescription
+Examples: B9g5xVb8PnTable
+mGn8V9RjwcTableDescription
 |arg1|arg2|
-|JF9L|QU8A|
-|JF9L|QU8A|
+|PI5J|CEZM|
+|PI5J|CEZM|
 
 @SC_265585 @RYO9 @XN7S @Z6RE
 Scenario Outline: MheBraGV6CName
@@ -41,6 +41,20 @@ kD00wSGHo8TableDescription
 |arg1|arg2|
 |FAJS|GOIE|
 |FAJS|GOIE|
+
+
+@SC_269426 @VQHW @58TG @XPXD
+Scenario Outline: zbnSep3idKName
+G6kvF5ROrzScenarioDescription
+Given Xt9jOTa3sPStep
+When NZ9ZyqpvP0Step
+Then KBwekdy5YVStep <arg1> <arg2>
+
+Examples: NJKEgVM27tTable
+zvHNRPYhRFTableDescription
+|arg1|arg2|
+|JF9L|QU8A|
+|JF9L|QU8A|
 
 
 @SC_284360 @WVOS @OLHZ @VD2J
@@ -83,20 +97,6 @@ x1A1m0gGXSTableDescription
 |arg1|arg2|
 |2552|HKKR|
 |2552|HKKR|
-
-
-@SC_320496 @Y5J3 @BFO4 @TORK
-Scenario Outline: V9JB1Aqk41Name
-fvEWaOUNGCScenarioDescription
-Given iC9VXYrHmSStep
-When xQRGjm96NgStep
-Then i1ylHCMJeAStep <arg1> <arg2>
-
-Examples: n1WpLINtCBTable
-BOeTog7n9KTableDescription
-|arg1|arg2|
-|TMUS|CXKQ|
-|TMUS|CXKQ|
 
 
 @SC_317517 @A95K @VIZC @IHOV
@@ -267,20 +267,6 @@ VCxaP6spPMTableDescription
 |XEDT|NA6N|
 
 
-@SC_272213 @RPZB @J7X6 @O8OI
-Scenario Outline: EaCeImk3MWName
-lCURBNQpbRScenarioDescription
-Given lyGI92hsK7Step
-When q4L5hu9N4nStep
-Then tN2wFOHaoyStep <arg1> <arg2>
-
-Examples: ExxgQzshsuTable
-FbB6vtUmhYTableDescription
-|arg1|arg2|
-|Z8BY|3LJX|
-|Z8BY|3LJX|
-
-
 @SC_264707 @9SBC @D0UG @CJ4F
 Scenario Outline: jxJzft2in4Name
 fOP8246c3VScenarioDescription
@@ -349,3 +335,17 @@ QoTa7xY2AJTableDescription
 |arg1|arg2|
 |WK8O|6IEP|
 |WK8O|6IEP|
+
+
+@SC_320496 @Y5J3 @BFO4 @TORK
+Scenario Outline: V9JB1Aqk41Name
+fvEWaOUNGCScenarioDescription
+Given iC9VXYrHmSStep
+When xQRGjm96NgStep
+Then i1ylHCMJeAStep <arg1> <arg2>
+
+Examples: n1WpLINtCBTable
+BOeTog7n9KTableDescription
+|arg1|arg2|
+|TMUS|CXKQ|
+|TMUS|CXKQ|
