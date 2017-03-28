@@ -2,18 +2,18 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_264065 @J11G @LOSV @TDME
-Scenario Outline: DwuHGGABQNName
-BvBaoQNMsgScenarioDescription
-Given P4iRscWqNVStep
-When 8mQ5DorUQGStep
-Then gbXERz2an3Step <arg1> <arg2>
+@SC_264706 @VSEV @GG4Q @L9SM
+Scenario Outline: D1U3mrWwi7Name
+m0qJqRfstqScenarioDescription
+Given gTXhDZDrEJStep
+When ZagAJTKfl9Step
+Then 1xQrGckrmrStep <arg1> <arg2>
 
-Examples: toW5O3u9SHTable
-ooNDLJSijyTableDescription
+Examples: GJ0Owv4fa8Table
+RRjI249JN7TableDescription
 |arg1|arg2|
-|MY48|X1A7|
-|MY48|X1A7|
+|DO23|TTT4|
+|DO23|TTT4|
 
 @SC_264063 @PZRD @9O6X @S98O
 Scenario Outline: NvvPVRrUhgName
@@ -41,6 +41,20 @@ G0B60z61KRTableDescription
 |arg1|arg2|
 |WE8N|9RKC|
 |WE8N|9RKC|
+
+
+@SC_264065 @J11G @LOSV @TDME
+Scenario Outline: DwuHGGABQNName
+BvBaoQNMsgScenarioDescription
+Given P4iRscWqNVStep
+When 8mQ5DorUQGStep
+Then gbXERz2an3Step <arg1> <arg2>
+
+Examples: toW5O3u9SHTable
+ooNDLJSijyTableDescription
+|arg1|arg2|
+|MY48|X1A7|
+|MY48|X1A7|
 
 
 @SC_265585 @7MPH @ZIGG @0TNW
@@ -97,6 +111,20 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
+
+@SC_326812 @6KYL @62X1 @6WJW
+Scenario Outline: nVATMp1brTName
+gLv2aMlPTcScenarioDescription
+Given cl9ICEEV2DStep
+When AsXVAu1OfxStep
+Then RnqO4nItn7Step <arg1> <arg2>
+
+Examples: 39rhIlKRTHTable
+x1A1m0gGXSTableDescription
+|arg1|arg2|
+|2552|HKKR|
+|2552|HKKR|
 
 
 @SC_320496 @Y5J3 @BFO4 @TORK
@@ -321,31 +349,3 @@ TnyAEQ0UdTTableDescription
 |arg1|arg2|
 |GRRI|UMHG|
 |GRRI|UMHG|
-
-
-@SC_264706 @AOVK @T5K3 @OGFJ
-Scenario Outline: SlUOf7dHsLName
-vjuZkfHJw6ScenarioDescription
-Given EbJCmsHNDMStep
-When ecdvLHqRLfStep
-Then jmkh1M67BEStep <arg1> <arg2>
-
-Examples: HPt02QyAAMTable
-sAUitiuMUKTableDescription
-|arg1|arg2|
-|1B4C|ASBX|
-|1B4C|ASBX|
-
-
-@SC_326812 @6KYL @62X1 @6WJW
-Scenario Outline: nVATMp1brTName
-gLv2aMlPTcScenarioDescription
-Given cl9ICEEV2DStep
-When AsXVAu1OfxStep
-Then RnqO4nItn7Step <arg1> <arg2>
-
-Examples: 39rhIlKRTHTable
-x1A1m0gGXSTableDescription
-|arg1|arg2|
-|2552|HKKR|
-|2552|HKKR|
