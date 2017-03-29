@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_229431 @BEEG @X1BP @HGO8
-Scenario Outline: NJOA7gWLHPName
-uy5vayFzqtScenarioDescription
-Given ENBEz8tIrVStep
-When Hyiy0kTxdkStep
-Then bW3AavkAxlStep <arg1> <arg2>
+@SC_229432 @NQJP @AWRA @JPQ2
+Scenario Outline: Xj41yZSzLGName
+ifV8LfHbY2ScenarioDescription
+Given RiiBAFNP51Step
+When JrRzrK7zPOStep
+Then ORCf0tJhI3Step <arg1> <arg2>
 
-Examples: joq5gd37qTTable
-UkdPl2JJYrTableDescription
+Examples: lRo3FpGpF2Table
+NilE8QNsUSTableDescription
 |arg1|arg2|
-|JR7W|OPOZ|
-|JR7W|OPOZ|
+|0BN9|H4SN|
+|0BN9|H4SN|
 
 @SC_210343 @9PYN @31BF @HYD7
 Scenario Outline: MMSHuDVhJLName
@@ -169,18 +169,18 @@ jr20CDsFhBTableDescription
 |DMM7|TRHE|
 
 
-@SC_229432 @8UC7 @GT8R @4MCN
-Scenario Outline: LHuJlsj4uKName
-cEws3UvTJKScenarioDescription
-Given 6NcqXIuHgwStep
-When Hco99vKzMnStep
-Then XZoU7keTRFStep <arg1> <arg2>
+@SC_229431 @BEEG @X1BP @HGO8
+Scenario Outline: NJOA7gWLHPName
+uy5vayFzqtScenarioDescription
+Given ENBEz8tIrVStep
+When Hyiy0kTxdkStep
+Then bW3AavkAxlStep <arg1> <arg2>
 
-Examples: HB3Cn2szmkTable
-mPijBWUDTqTableDescription
+Examples: joq5gd37qTTable
+UkdPl2JJYrTableDescription
 |arg1|arg2|
-|UZZ0|NM6L|
-|UZZ0|NM6L|
+|JR7W|OPOZ|
+|JR7W|OPOZ|
 
 
 @SC_231481 @OTWQ @OJMC @ZXFH
@@ -449,6 +449,20 @@ Examples: 9pjyxu6jmATable
 |KEFY|7WZ0|
 
 
+@SC_309596 @KVAD @D0HV @WF83
+Scenario Outline: Hu6US2m8LjName
+C18iCJ05WNScenarioDescription
+Given ykeNVHZgshStep
+When CwH4Fw6ElZStep
+Then 1ZxFBMhTffStep <arg1> <arg2>
+
+Examples: tMdjRQVDZhTable
+6dh2jEki7HTableDescription
+|arg1|arg2|
+|RHTB|IGXJ|
+|RHTB|IGXJ|
+
+
 @SC_308592 @HBPN @ALJW @5PNZ
 Scenario Outline: JnH8qr1DGWName
 8oR3OxjVCYScenarioDescription
@@ -629,17 +643,3 @@ UyYOzUyKe9TableDescription
 |arg1|arg2|
 |KCIO|WKWL|
 |KCIO|WKWL|
-
-
-@SC_309596 @KVAD @D0HV @WF83
-Scenario Outline: Hu6US2m8LjName
-C18iCJ05WNScenarioDescription
-Given ykeNVHZgshStep
-When CwH4Fw6ElZStep
-Then 1ZxFBMhTffStep <arg1> <arg2>
-
-Examples: tMdjRQVDZhTable
-6dh2jEki7HTableDescription
-|arg1|arg2|
-|RHTB|IGXJ|
-|RHTB|IGXJ|
