@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_231482 @FFGK @JISV @S1P9
-Scenario Outline: WXtEvsTIYzName
-1BqeUS3iZfScenarioDescription
-Given 7qnBSde4wIStep
-When 5QvwMAUS4EStep
-Then kiQ0y2VmCRStep <arg1> <arg2>
+@SC_233010 @AZTT @DNGU @WKP3
+Scenario Outline: Dc6mpIbC7UName
+9jK2jWBvmXScenarioDescription
+Given 9983qN29VDStep
+When 3w66oNLl0iStep
+Then 2QPgewUKsYStep <arg1> <arg2>
 
-Examples: Ve5CekvMjUTable
-OjpbYKVkIITableDescription
+Examples: zVV3RI4BnNTable
+qmdpcmbWZSTableDescription
 |arg1|arg2|
-|GVFI|1LAI|
-|GVFI|1LAI|
+|8PHT|7ZNE|
+|8PHT|7ZNE|
 
 @SC_210343 @9PYN @31BF @HYD7
 Scenario Outline: MMSHuDVhJLName
@@ -211,18 +211,18 @@ O3tCGSP41qTableDescription
 |NZ2T|HLZQ|
 
 
-@SC_233010 @70EZ @8PAH @ZKVL
-Scenario Outline: j2KTFCzpNVName
-j5j0RSeGTaScenarioDescription
-Given 9aW3Hj5vS7Step
-When ILlCt5vQe9Step
-Then acEeqGTgSuStep <arg1> <arg2>
+@SC_231482 @FFGK @JISV @S1P9
+Scenario Outline: WXtEvsTIYzName
+1BqeUS3iZfScenarioDescription
+Given 7qnBSde4wIStep
+When 5QvwMAUS4EStep
+Then kiQ0y2VmCRStep <arg1> <arg2>
 
-Examples: 56OYO6iM5aTable
-svooedZxfXTableDescription
+Examples: Ve5CekvMjUTable
+OjpbYKVkIITableDescription
 |arg1|arg2|
-|RSMU|O09F|
-|RSMU|O09F|
+|GVFI|1LAI|
+|GVFI|1LAI|
 
 
 @SC_233011 @VWM9 @NMDG @KHTB
@@ -449,20 +449,6 @@ yEAjxXp0LFTableDescription
 |N5SR|ONOT|
 
 
-@SC_321556 @T9QY @FN5T @UP22
-Scenario Outline: NZrCFg5cfmName
-LjhZuiwxEkScenarioDescription
-Given Lk6FBEpkvbStep
-When HATLot9Nc1Step
-Then p9VbKD06atStep <arg1> <arg2>
-
-Examples: 9pjyxu6jmATable
-6GenvOsxHXTableDescription
-|arg1|arg2|
-|KEFY|7WZ0|
-|KEFY|7WZ0|
-
-
 @SC_309596 @KVAD @D0HV @WF83
 Scenario Outline: Hu6US2m8LjName
 C18iCJ05WNScenarioDescription
@@ -643,3 +629,17 @@ s0YRhGjxD2TableDescription
 |arg1|arg2|
 |SIKL|OMLB|
 |SIKL|OMLB|
+
+
+@SC_321556 @T9QY @FN5T @UP22
+Scenario Outline: NZrCFg5cfmName
+LjhZuiwxEkScenarioDescription
+Given Lk6FBEpkvbStep
+When HATLot9Nc1Step
+Then p9VbKD06atStep <arg1> <arg2>
+
+Examples: 9pjyxu6jmATable
+6GenvOsxHXTableDescription
+|arg1|arg2|
+|KEFY|7WZ0|
+|KEFY|7WZ0|
