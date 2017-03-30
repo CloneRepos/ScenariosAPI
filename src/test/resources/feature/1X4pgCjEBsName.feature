@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_321556 @HLSY @KWKQ @TDMM
-Scenario Outline: NNMLeHzyD9Name
-uBGUn7PjF6ScenarioDescription
-Given EWw6qp563tStep
-When 8i6OAZFpG2Step
-Then NLif562E1wStep <arg1> <arg2>
+@SC_323442 @N2EG @XUQL @WRVQ
+Scenario Outline: twZZVMphoPName
+h6HG09WgSNScenarioDescription
+Given Oe6GzttoXEStep
+When oGvd6QaFMYStep
+Then CNcisg2B20Step <arg1> <arg2>
 
-Examples: ixcoqDVY3HTable
-EBZiokyqb7TableDescription
+Examples: 4lP6MCRHqTTable
+mcHW5L9X0lTableDescription
 |arg1|arg2|
-|MOQ8|KPBN|
-|MOQ8|KPBN|
+|LLUQ|RB1V|
+|LLUQ|RB1V|
 
 @SC_239523 @SEVL @TLG8 @6HBV
 Scenario Outline: KYEFGWTTnyName
@@ -295,6 +295,20 @@ qK5pjRNUYhTableDescription
 |JPQD|6EJW|
 
 
+@SC_321556 @HLSY @KWKQ @TDMM
+Scenario Outline: NNMLeHzyD9Name
+uBGUn7PjF6ScenarioDescription
+Given EWw6qp563tStep
+When 8i6OAZFpG2Step
+Then NLif562E1wStep <arg1> <arg2>
+
+Examples: ixcoqDVY3HTable
+EBZiokyqb7TableDescription
+|arg1|arg2|
+|MOQ8|KPBN|
+|MOQ8|KPBN|
+
+
 @SC_329756 @TG7N @XSPO @KHGW
 Scenario Outline: zN8yA5vtYmName
 6q3Al6HHWhScenarioDescription
@@ -365,20 +379,6 @@ Table description yeah!
 |123|456|
 
 
-@SC_215397 @EATV @FPP2 @MUN2
-Scenario Outline: 7kK6fOjoYRName
-pwOcelCQhGScenarioDescription
-Given 01e5M2vOgpStep
-When sdDdR3WVHnStep
-Then Kf8iP57SmzStep <arg1> <arg2>
-
-Examples: a8IJuK5QD5Table
-qsYwX3nShETableDescription
-|arg1|arg2|
-|LFBB|ZEXF|
-|LFBB|ZEXF|
-
-
 @SC_324707 @2WPP @VWIL @UCYY
 Scenario Outline: JtvxgX8tQrName
 kf2AJfnytkScenarioDescription
@@ -391,20 +391,6 @@ ktG0imMLnhTableDescription
 |arg1|arg2|
 |65CP|UK7D|
 |65CP|UK7D|
-
-
-@SC_323442 @YY5E @JLSJ @RSPR
-Scenario Outline: WpEMemXccHName
-J0YI7ftvt6ScenarioDescription
-Given 4KpGSe47nNStep
-When kpC9w1qi91Step
-Then BYaLuIdvksStep <arg1> <arg2>
-
-Examples: jql4Eb7mTqTable
-58F96eM7T3TableDescription
-|arg1|arg2|
-|TEGL|GX3M|
-|TEGL|GX3M|
 
 
 @SC_236698 @6U6S @8ZX0 @ZEKK
@@ -643,3 +629,17 @@ r7CmLusK2wTableDescription
 |arg1|arg2|
 |ADNS|TIYZ|
 |ADNS|TIYZ|
+
+
+@SC_215397 @EATV @FPP2 @MUN2
+Scenario Outline: 7kK6fOjoYRName
+pwOcelCQhGScenarioDescription
+Given 01e5M2vOgpStep
+When sdDdR3WVHnStep
+Then Kf8iP57SmzStep <arg1> <arg2>
+
+Examples: a8IJuK5QD5Table
+qsYwX3nShETableDescription
+|arg1|arg2|
+|LFBB|ZEXF|
+|LFBB|ZEXF|
