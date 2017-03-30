@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_294455 @YYLR @ORKQ @E7KC
-Scenario Outline: F03BKyxRBYName
-Qk6oDHH8gHScenarioDescription
-Given dFTUwylvmIStep
-When St6vrYTPkEStep
-Then EalGYp99gZStep <arg1> <arg2>
+@SC_294456 @3WQ8 @S6JA @JHEI
+Scenario Outline: vqdYblegG8Name
+KUHPFVvrtFScenarioDescription
+Given fp8QFrnWSPStep
+When gzWNu5KcznStep
+Then X13exsp0aqStep <arg1> <arg2>
 
-Examples: 8ir9qFvXADTable
-3W6Q8iT8qrTableDescription
+Examples: 0czDpGu6s0Table
+7g5yQanBR6TableDescription
 |arg1|arg2|
-|WORW|R2BS|
-|WORW|R2BS|
+|I5TF|FIJG|
+|I5TF|FIJG|
 
 @SC_239523 @SEVL @TLG8 @6HBV
 Scenario Outline: KYEFGWTTnyName
@@ -169,18 +169,18 @@ haOGHTwZuKTableDescription
 |ARC7|3YDH|
 
 
-@SC_294456 @AQOV @MSP0 @67CL
-Scenario Outline: b7okUle6alName
-rv2vexjn2UScenarioDescription
-Given 10hvRp8s67Step
-When zmhD5bijYAStep
-Then jqJ5uvRxLIStep <arg1> <arg2>
+@SC_294455 @YYLR @ORKQ @E7KC
+Scenario Outline: F03BKyxRBYName
+Qk6oDHH8gHScenarioDescription
+Given dFTUwylvmIStep
+When St6vrYTPkEStep
+Then EalGYp99gZStep <arg1> <arg2>
 
-Examples: cHvYXIm9CGTable
-ofv2KGMZKGTableDescription
+Examples: 8ir9qFvXADTable
+3W6Q8iT8qrTableDescription
 |arg1|arg2|
-|TUAJ|RGUY|
-|TUAJ|RGUY|
+|WORW|R2BS|
+|WORW|R2BS|
 
 
 @SC_309596 @GKD7 @WHYS @CF8B
@@ -211,20 +211,6 @@ TN5MANdNBxTableDescription
 |ZWZD|OZEM|
 
 
-@SC_307588 @UQKP @7Z7B @IAKB
-Scenario Outline: YTqh0Ey5egName
-pV74RuoyDLScenarioDescription
-Given uAOEiOWHiUStep
-When s7kmWOyrZYStep
-Then 6AKBNtLA9tStep <arg1> <arg2>
-
-Examples: 42mkv47UQXTable
-CHTLqWkWYRTableDescription
-|arg1|arg2|
-|NBM5|AMWY|
-|NBM5|AMWY|
-
-
 @SC_304937 @EFXO @MTTU @04AD
 Scenario Outline: 9KpWPkAbz6Name
 2pnKwn5viAScenarioDescription
@@ -237,6 +223,20 @@ dZ8gAMXpf2TableDescription
 |arg1|arg2|
 |IKB8|AM0Q|
 |IKB8|AM0Q|
+
+
+@SC_304936 @5NZP @3DQC @RAUR
+Scenario Outline: idA9QTwS1GName
+SL8vAtgaxCScenarioDescription
+Given FUkLFTVJBcStep
+When 7HngMSyUywStep
+Then VramL0edQXStep <arg1> <arg2>
+
+Examples: A1tftcNFoJTable
+SJtu1sLzr9TableDescription
+|arg1|arg2|
+|TTFA|5CSI|
+|TTFA|5CSI|
 
 
 @SC_329756 @TG7N @XSPO @KHGW
@@ -307,20 +307,6 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
-
-
-@SC_304936 @5NZP @3DQC @RAUR
-Scenario Outline: idA9QTwS1GName
-SL8vAtgaxCScenarioDescription
-Given FUkLFTVJBcStep
-When 7HngMSyUywStep
-Then VramL0edQXStep <arg1> <arg2>
-
-Examples: A1tftcNFoJTable
-SJtu1sLzr9TableDescription
-|arg1|arg2|
-|TTFA|5CSI|
-|TTFA|5CSI|
 
 
 @SC_301807 @GJLI @8PEO @5PHF
@@ -477,34 +463,6 @@ h1IzrqRtK8TableDescription
 |ZDWP|6NNB|
 
 
-@SC_227225 @SSQG @RPRU @QY99
-Scenario Outline: Uq4pGXcv9AName
-UFjZc1vOj3ScenarioDescription
-Given dS80mKhBWCStep
-When D7MX5E4pE1Step
-Then eZahBIPvylStep <arg1> <arg2>
-
-Examples: QUeNh3fWZATable
-jyBJnC52XUTableDescription
-|arg1|arg2|
-|MER6|YPLY|
-|MER6|YPLY|
-
-
-@SC_227224 @TGVC @XKA0 @VAHB
-Scenario Outline: XE0wTFCn2JName
-MkqYb62YfUScenarioDescription
-Given pTVNuwzDjwStep
-When Qbxbm65X5UStep
-Then H9olR7LEHwStep <arg1> <arg2>
-
-Examples: SW7uVLxwfWTable
-Oz0oljQ5KQTableDescription
-|arg1|arg2|
-|BUMW|ZPHA|
-|BUMW|ZPHA|
-
-
 @SC_226283 @1VQG @YIQF @CVV2
 Scenario Outline: 7Bkg2HGopVName
 qDsQUmrevtScenarioDescription
@@ -601,6 +559,48 @@ qsYwX3nShETableDescription
 |arg1|arg2|
 |LFBB|ZEXF|
 |LFBB|ZEXF|
+
+
+@SC_307588 @UQKP @7Z7B @IAKB
+Scenario Outline: YTqh0Ey5egName
+pV74RuoyDLScenarioDescription
+Given uAOEiOWHiUStep
+When s7kmWOyrZYStep
+Then 6AKBNtLA9tStep <arg1> <arg2>
+
+Examples: 42mkv47UQXTable
+CHTLqWkWYRTableDescription
+|arg1|arg2|
+|NBM5|AMWY|
+|NBM5|AMWY|
+
+
+@SC_227225 @SSQG @RPRU @QY99
+Scenario Outline: Uq4pGXcv9AName
+UFjZc1vOj3ScenarioDescription
+Given dS80mKhBWCStep
+When D7MX5E4pE1Step
+Then eZahBIPvylStep <arg1> <arg2>
+
+Examples: QUeNh3fWZATable
+jyBJnC52XUTableDescription
+|arg1|arg2|
+|MER6|YPLY|
+|MER6|YPLY|
+
+
+@SC_227224 @TGVC @XKA0 @VAHB
+Scenario Outline: XE0wTFCn2JName
+MkqYb62YfUScenarioDescription
+Given pTVNuwzDjwStep
+When Qbxbm65X5UStep
+Then H9olR7LEHwStep <arg1> <arg2>
+
+Examples: SW7uVLxwfWTable
+Oz0oljQ5KQTableDescription
+|arg1|arg2|
+|BUMW|ZPHA|
+|BUMW|ZPHA|
 
 
 @SC_321556 @UG53 @YBT5 @YYWR
