@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_280442 @7YAP @C7S2 @PPE4
-Scenario Outline: eg66hNqzmZName
-rOWKlLOYaOScenarioDescription
-Given wEOdxk701pStep
-When Ovcrgg2339Step
-Then iDicKQfDuxStep <arg1> <arg2>
+@SC_284382 @19RO @WKNH @ZDQG
+Scenario Outline: FbmgwJUwY6Name
+2eYIhT2KrAScenarioDescription
+Given 2nXEVzWq10Step
+When 4nSqKr6kERStep
+Then EbFYKxyixxStep <arg1> <arg2>
 
-Examples: z5xWzQ8xFbTable
-EUuA70MJuKTableDescription
+Examples: a0iw7KOwKcTable
+Zk1ce3kJLvTableDescription
 |arg1|arg2|
-|QGIS|2TOZ|
-|QGIS|2TOZ|
+|S14D|S3KS|
+|S14D|S3KS|
 
 @SC_220940 @0R8E @GGCS @QLKT
 Scenario Outline: IQuR1I2MRXName
@@ -288,18 +288,18 @@ vkbGmrErlsTableDescription
 |TYQS|ZZTK|
 |TYQS|ZZTK|
 
-@SC_284382 @XUIG @MW7S @S4OE
-Scenario Outline: v00S6bi9zYName
-ErzAaP7zl8ScenarioDescription
-Given coQBzrOjMbStep
-When deKNmpKTWeStep
-Then HlmdM3F2fUStep <arg1> <arg2>
+@SC_280442 @7YAP @C7S2 @PPE4
+Scenario Outline: eg66hNqzmZName
+rOWKlLOYaOScenarioDescription
+Given wEOdxk701pStep
+When Ovcrgg2339Step
+Then iDicKQfDuxStep <arg1> <arg2>
 
-Examples: isPuSLI3tvTable
-35RZ0DEY7TTableDescription
+Examples: z5xWzQ8xFbTable
+EUuA70MJuKTableDescription
 |arg1|arg2|
-|1QHB|UXUS|
-|1QHB|UXUS|
+|QGIS|2TOZ|
+|QGIS|2TOZ|
 
 @SC_287166 @C5GD @UMWT @IXWH
 Scenario Outline: OQrlqi9g4gName
