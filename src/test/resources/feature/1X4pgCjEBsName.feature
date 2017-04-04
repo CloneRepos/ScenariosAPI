@@ -2,18 +2,31 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_355441 @tag1 @tag2 @tag3
-Scenario Outline: I3xANOL1yvName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
+@SC_226283 @GFWL @8PAC @VXDW
+Scenario Outline: p9CCbqxu1WName
+mQ1h1MpXJGScenarioDescription
+Given cMv99ZLv0eStep
+When uT6yEwSMmqStep
+Then m7Sy5ximCeStep <arg1> <arg2>
 
-Examples: KEYzmioPP5Table
-Table description yeah!
+Examples: UipV2DyYHwTable
+bxX9B5Cne2TableDescription
 |arg1|arg2|
-|123|456|
-|123|456|
+|6EXF|HHLG|
+|6EXF|HHLG|
+
+@SC_227224 @CYEI @A4RQ @K0Q6
+Scenario Outline: 7NHMSMEBf5Name
+JQCWq2JjyhScenarioDescription
+Given oSj4EjmiTTStep
+When 5yTdDzrv1BStep
+Then Gt72anAFC6Step <arg1> <arg2>
+
+Examples: FzZWisf7v5Table
+UmFGl2oIiqTableDescription
+|arg1|arg2|
+|TTDF|KW4D|
+|TTDF|KW4D|
 
 @SC_227225 @EJ9O @0NKP @RDDP
 Scenario Outline: VlUAcsXIbpName
@@ -444,45 +457,6 @@ Examples: itWgiCWt8cTable
 |YVPE|QS2J|
 |YVPE|QS2J|
 
-@SC_227224 @CYEI @A4RQ @K0Q6
-Scenario Outline: 7NHMSMEBf5Name
-JQCWq2JjyhScenarioDescription
-Given oSj4EjmiTTStep
-When 5yTdDzrv1BStep
-Then Gt72anAFC6Step <arg1> <arg2>
-
-Examples: FzZWisf7v5Table
-UmFGl2oIiqTableDescription
-|arg1|arg2|
-|TTDF|KW4D|
-|TTDF|KW4D|
-
-@SC_226283 @GFWL @8PAC @VXDW
-Scenario Outline: p9CCbqxu1WName
-mQ1h1MpXJGScenarioDescription
-Given cMv99ZLv0eStep
-When uT6yEwSMmqStep
-Then m7Sy5ximCeStep <arg1> <arg2>
-
-Examples: UipV2DyYHwTable
-bxX9B5Cne2TableDescription
-|arg1|arg2|
-|6EXF|HHLG|
-|6EXF|HHLG|
-
-@SC_226282 @D5XC @OJC1 @78JB
-Scenario Outline: fK6YdQHSB9Name
-4ZJIjJn4uuScenarioDescription
-Given zB3jQ315pZStep
-When GJCwsYpG9iStep
-Then vvmlLmcCKxStep <arg1> <arg2>
-
-Examples: vWjG4eXwLgTable
-GimHmJv8prTableDescription
-|arg1|arg2|
-|JCX2|MQTN|
-|JCX2|MQTN|
-
 @SC_329756 @TQUV @7V5E @T6XY
 Scenario Outline: sGu1LZjTgoName
 aoRBjLM9eXScenarioDescription
@@ -625,3 +599,16 @@ ziOFBEBzizTableDescription
 |arg1|arg2|
 |SCRB|D3BD|
 |SCRB|D3BD|
+
+@SC_355441 @tag1 @tag2 @tag3
+Scenario Outline: I3xANOL1yvName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: KEYzmioPP5Table
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
