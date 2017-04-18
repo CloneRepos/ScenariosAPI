@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_292511 @8JVO @CMM7 @QUWC
-Scenario Outline: YYxH2AKfyXName
-VkrQs5TnzeScenarioDescription
-Given Mu3cAFbqyLStep
-When xSqbblVgbkStep
-Then TRK1g4AZCLStep <arg1> <arg2>
+@SC_294455 @34OZ @GSK0 @QPMH
+Scenario Outline: jB0pocAUFlName
+JhXfHRZM8QScenarioDescription
+Given GDJpu4ctlFStep
+When iHclL6Q3ruStep
+Then AYgCjEtsRCStep <arg1> <arg2>
 
-Examples: 1j0uUZJctDTable
-D5hDhnm6qvTableDescription
+Examples: j3U77uO9ShTable
+CxE0PxdjVFTableDescription
 |arg1|arg2|
-|5LXD|AEVO|
-|5LXD|AEVO|
+|E9CT|RDEP|
+|E9CT|RDEP|
 
 @SC_266281 @F847 @KQD4 @NSC9
 Scenario Outline: 4CPBXRox0cName
@@ -93,18 +93,18 @@ CBPcIfeWj2TableDescription
 |QH3X|K889|
 |QH3X|K889|
 
-@SC_294455 @R1FN @YV6M @MYH4
-Scenario Outline: OC1AW56AfwName
-yMLBMV7hcoScenarioDescription
-Given wSP2Ho1KSRStep
-When UYTLEBs5w8Step
-Then 861T8Jl8WyStep <arg1> <arg2>
+@SC_292511 @8JVO @CMM7 @QUWC
+Scenario Outline: YYxH2AKfyXName
+VkrQs5TnzeScenarioDescription
+Given Mu3cAFbqyLStep
+When xSqbblVgbkStep
+Then TRK1g4AZCLStep <arg1> <arg2>
 
-Examples: O1FZKMagusTable
-ePst3b84aHTableDescription
+Examples: 1j0uUZJctDTable
+D5hDhnm6qvTableDescription
 |arg1|arg2|
-|UYSK|NWSM|
-|UYSK|NWSM|
+|5LXD|AEVO|
+|5LXD|AEVO|
 
 @SC_294456 @AEUO @BSNC @SKFL
 Scenario Outline: bpKUQaxlt7Name
@@ -262,6 +262,19 @@ BnW20wotwUTableDescription
 |KBPF|ZE0Z|
 |KBPF|ZE0Z|
 
+@SC_331016 @BVFR @BHXI @IQPJ
+Scenario Outline: nWMgrPyGSKName
+sqXqkmIRj7ScenarioDescription
+Given ZHczJmLGOhStep
+When 7bV8ZC3KYSStep
+Then QhERE7Zq8RStep <arg1> <arg2>
+
+Examples: g7cnstXV3ETable
+f1xk9DuGI0TableDescription
+|arg1|arg2|
+|4MIY|UVVH|
+|4MIY|UVVH|
+
 @SC_336417 @KTYR @WUHA @FQE7
 Scenario Outline: Sv1Fzw5OKNName
 7Aq3bqKPuWScenarioDescription
@@ -418,19 +431,6 @@ Examples: kqzsgt7owfTable
 |5VZT|F1XV|
 |5VZT|F1XV|
 
-@SC_361164 @NLK5 @RH8R @TBKI
-Scenario Outline: vdgbRJsKEWName
-k8ifg6hG56ScenarioDescription
-Given XkOp9n4963Step
-When EcdoEixx3sStep
-Then GdYnvX9Jv7Step <arg1> <arg2>
-
-Examples: 94CT6YQSfwTable
-uoToeF9hOzTableDescription
-|arg1|arg2|
-|WVLY|FLER|
-|WVLY|FLER|
-
 @SC_248007 @ZVLX @AAP3 @RZZO
 Scenario Outline: Ztiw6cArWoName
 wQXMg2KWUnScenarioDescription
@@ -469,6 +469,19 @@ Examples: AVLpbkZb4lTable
 |arg1|arg2|
 |LNCJ|SXAT|
 |LNCJ|SXAT|
+
+@SC_361164 @NLK5 @RH8R @TBKI
+Scenario Outline: vdgbRJsKEWName
+k8ifg6hG56ScenarioDescription
+Given XkOp9n4963Step
+When EcdoEixx3sStep
+Then GdYnvX9Jv7Step <arg1> <arg2>
+
+Examples: 94CT6YQSfwTable
+uoToeF9hOzTableDescription
+|arg1|arg2|
+|WVLY|FLER|
+|WVLY|FLER|
 
 @SC_363213 @CFGP @HEGY @3B9H
 Scenario Outline: G6b3V22hwAName
@@ -599,16 +612,3 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
-
-@SC_331016 @BVFR @BHXI @IQPJ
-Scenario Outline: nWMgrPyGSKName
-sqXqkmIRj7ScenarioDescription
-Given ZHczJmLGOhStep
-When 7bV8ZC3KYSStep
-Then QhERE7Zq8RStep <arg1> <arg2>
-
-Examples: g7cnstXV3ETable
-f1xk9DuGI0TableDescription
-|arg1|arg2|
-|4MIY|UVVH|
-|4MIY|UVVH|
