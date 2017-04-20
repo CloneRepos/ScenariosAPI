@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_304937 @CYZY @ZW9M @GZNH
-Scenario Outline: YW3YsuqQ00Name
-xvoKGQXr1eScenarioDescription
-Given flOqcyoJHiStep
-When 9k5vwoIZyrStep
-Then 3uZSR9GDRoStep <arg1> <arg2>
+@SC_307588 @ZI1B @SHOV @AL3C
+Scenario Outline: lEIEvfjYGSName
+Y7ACf7kV6EScenarioDescription
+Given 7f5A9I0YPgStep
+When 4YZK6xlOtnStep
+Then Gv0CTqtmckStep <arg1> <arg2>
 
-Examples: EtUrgPRNEBTable
-pfgZu0P5KATableDescription
+Examples: Jf1RmVlaA5Table
+UiRvczYgFATableDescription
 |arg1|arg2|
-|WUVO|AHCT|
-|WUVO|AHCT|
+|4CVX|MQKL|
+|4CVX|MQKL|
 
 @SC_280442 @OJHB @QL3T @ISC8
 Scenario Outline: pmHzYZLpA0Name
@@ -158,18 +158,18 @@ AGEbr4lz5KTableDescription
 |6FY3|W7EQ|
 |6FY3|W7EQ|
 
-@SC_307588 @GGFN @4LZI @TRGV
-Scenario Outline: BcOJJfHpl7Name
-ZhL3zIwYVKScenarioDescription
-Given 6TOrku0BrCStep
-When tJeBw0YUgmStep
-Then CUEOIVLSiEStep <arg1> <arg2>
+@SC_304937 @CYZY @ZW9M @GZNH
+Scenario Outline: YW3YsuqQ00Name
+xvoKGQXr1eScenarioDescription
+Given flOqcyoJHiStep
+When 9k5vwoIZyrStep
+Then 3uZSR9GDRoStep <arg1> <arg2>
 
-Examples: 9zijNQBmlaTable
-wElHqEcDNdTableDescription
+Examples: EtUrgPRNEBTable
+pfgZu0P5KATableDescription
 |arg1|arg2|
-|TD9P|VULT|
-|TD9P|VULT|
+|WUVO|AHCT|
+|WUVO|AHCT|
 
 @SC_308592 @1OLG @T0DA @RVCM
 Scenario Outline: edOOl587T6Name
@@ -418,19 +418,6 @@ t9vz7JEBICTableDescription
 |QJAE|PT1D|
 |QJAE|PT1D|
 
-@SC_361164 @0CPZ @1HKH @854G
-Scenario Outline: bZSt0QXRN4Name
-lO39OSZFLgScenarioDescription
-Given TeaLClJldDStep
-When CIwBKaQQK4Step
-Then m9HkrsEEknStep <arg1> <arg2>
-
-Examples: DeSAkWngd7Table
-Wg1KdsxFaVTableDescription
-|arg1|arg2|
-|ZQPD|QMU7|
-|ZQPD|QMU7|
-
 @SC_266281 @XAZ7 @IHKW @JKSL
 Scenario Outline: zNR7f1NG33Name
 eXFCkYq9BuScenarioDescription
@@ -469,6 +456,19 @@ m7fwkopNO9TableDescription
 |arg1|arg2|
 |QS9U|GH4D|
 |QS9U|GH4D|
+
+@SC_361164 @0CPZ @1HKH @854G
+Scenario Outline: bZSt0QXRN4Name
+lO39OSZFLgScenarioDescription
+Given TeaLClJldDStep
+When CIwBKaQQK4Step
+Then m9HkrsEEknStep <arg1> <arg2>
+
+Examples: DeSAkWngd7Table
+Wg1KdsxFaVTableDescription
+|arg1|arg2|
+|ZQPD|QMU7|
+|ZQPD|QMU7|
 
 @SC_363213 @JLNE @EDEU @P4UT
 Scenario Outline: EsPeSTmpv9Name
