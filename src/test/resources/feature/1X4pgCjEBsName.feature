@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_381934 @UTXT @K3GU @VARE
-Scenario Outline: jTedRgQcd4Name
-isfm1quPbSScenarioDescription
-Given L7xe4nXZNDStep
-When BQwFf6nq5MStep
-Then 2ssbSlWJPeStep <arg1> <arg2>
+@SC_383983 @7YQH @V8Z5 @HJPF
+Scenario Outline: FHC2RPZgTMName
+qFyH9k0xgAScenarioDescription
+Given dLdDqUCQl0Step
+When 1sJZaaNu2NStep
+Then 1uuWtPIhYLStep <arg1> <arg2>
 
-Examples: KJdquZQ4dtTable
-0g4rI6mGX4TableDescription
+Examples: Vv6NW484zBTable
+RnkjbDrBkyTableDescription
 |arg1|arg2|
-|AKMF|RPPB|
-|AKMF|RPPB|
+|DCKT|TMXF|
+|DCKT|TMXF|
 
 @SC_292511 @DFGX @FCZL @XTO9
 Scenario Outline: T6XtBSjqByName
@@ -118,6 +118,19 @@ Examples: Lqx3MjQj7sTable
 |arg1|arg2|
 |TKL4|LBN4|
 |TKL4|LBN4|
+
+@SC_308592 @XBXW @PSMV @0SYB
+Scenario Outline: 9X8kva7xxiName
+5YCuWBwtjYScenarioDescription
+Given 34XOJOu10yStep
+When TQtNF0Ol4iStep
+Then vI4mTkDOQYStep <arg1> <arg2>
+
+Examples: DBY3zuxHiOTable
+E0gGkt1kh2TableDescription
+|arg1|arg2|
+|J9GM|3VZC|
+|J9GM|3VZC|
 
 @SC_309596 @DRBL @DQ8W @BE3C
 Scenario Outline: p7Bbjb211jName
@@ -405,18 +418,18 @@ nZ7ynDMI2uTableDescription
 |2FGS|HLBB|
 |2FGS|HLBB|
 
-@SC_383983 @Q1PV @9KHK @PJJJ
-Scenario Outline: 3Fwt4F9nc9Name
-4EaOlnzarkScenarioDescription
-Given H42E3e37LjStep
-When LDsT0RP5ahStep
-Then KHJbfCzHXtStep <arg1> <arg2>
+@SC_381934 @UTXT @K3GU @VARE
+Scenario Outline: jTedRgQcd4Name
+isfm1quPbSScenarioDescription
+Given L7xe4nXZNDStep
+When BQwFf6nq5MStep
+Then 2ssbSlWJPeStep <arg1> <arg2>
 
-Examples: hFEqgbTnt6Table
-kPuVnQOMDXTableDescription
+Examples: KJdquZQ4dtTable
+0g4rI6mGX4TableDescription
 |arg1|arg2|
-|HNZ3|E63W|
-|HNZ3|E63W|
+|AKMF|RPPB|
+|AKMF|RPPB|
 
 @SC_387134 @CN9L @VLPI @S3XS
 Scenario Outline: 6X2Dnm8ZstName
@@ -469,19 +482,6 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
-
-@SC_308592 @XBXW @PSMV @0SYB
-Scenario Outline: 9X8kva7xxiName
-5YCuWBwtjYScenarioDescription
-Given 34XOJOu10yStep
-When TQtNF0Ol4iStep
-Then vI4mTkDOQYStep <arg1> <arg2>
-
-Examples: DBY3zuxHiOTable
-E0gGkt1kh2TableDescription
-|arg1|arg2|
-|J9GM|3VZC|
-|J9GM|3VZC|
 
 @SC_291251 @FWT6 @MTSJ @RXHD
 Scenario Outline: a3blPDVCu3Name
