@@ -2,6 +2,19 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
+@SC_289052 @OS9M @MSE8 @OPDA
+Scenario Outline: IihLVQfW79Name
+UEmk61CHIdScenarioDescription
+Given nEyRsVKQqqStep
+When kuWMfigrnyStep
+Then WvgxeVVc2rStep <arg1> <arg2>
+
+Examples: flL9Ogn4BKTable
+yiS2m4i5tfTableDescription
+|arg1|arg2|
+|IBVG|M8DL|
+|IBVG|M8DL|
+
 @SC_287166 @3CJ6 @L2ZV @GV2J
 Scenario Outline: 0PVFisLhbSName
 NusJTfGxA2ScenarioDescription
@@ -14,45 +27,6 @@ lwJl4xNvbFTableDescription
 |arg1|arg2|
 |IQXW|PS17|
 |IQXW|PS17|
-
-@SC_280442 @IGHE @TIJQ @LGEV
-Scenario Outline: wTHF4m3VPIName
-lb0yJBAY6gScenarioDescription
-Given rb18MytKCFStep
-When h7hivW4KwZStep
-Then qy4kDMxK4nStep <arg1> <arg2>
-
-Examples: AIGBiLVyYrTable
-GsAlLPOVROTableDescription
-|arg1|arg2|
-|G9R3|ARSD|
-|G9R3|ARSD|
-
-@SC_284382 @USHX @WX7I @XDRK
-Scenario Outline: pQk3HRuu3oName
-wWH0kBda9kScenarioDescription
-Given W0VFbsTQpiStep
-When FNI5cqXeupStep
-Then yx8QvFv6nNStep <arg1> <arg2>
-
-Examples: Thx76Y8Dw7Table
-rh1mb8WUD1TableDescription
-|arg1|arg2|
-|AITA|4OTF|
-|AITA|4OTF|
-
-@SC_289052 @ZYOO @V1WO @MS6F
-Scenario Outline: YMse5KNIxPName
-sUlZ9cfHmxScenarioDescription
-Given OCsM0lfPzNStep
-When vCAaKq7PbBStep
-Then 3zXdfy4hG7Step <arg1> <arg2>
-
-Examples: ywdiWMU9MRTable
-IhJZVCZc5VTableDescription
-|arg1|arg2|
-|WXDI|SCU6|
-|WXDI|SCU6|
 
 @SC_291251 @WQPF @OUBM @CKGY
 Scenario Outline: OUymva0K63Name
@@ -443,6 +417,32 @@ riPVmjRH9STableDescription
 |arg1|arg2|
 |TEKV|HLDO|
 |TEKV|HLDO|
+
+@SC_284382 @USHX @WX7I @XDRK
+Scenario Outline: pQk3HRuu3oName
+wWH0kBda9kScenarioDescription
+Given W0VFbsTQpiStep
+When FNI5cqXeupStep
+Then yx8QvFv6nNStep <arg1> <arg2>
+
+Examples: Thx76Y8Dw7Table
+rh1mb8WUD1TableDescription
+|arg1|arg2|
+|AITA|4OTF|
+|AITA|4OTF|
+
+@SC_280442 @IGHE @TIJQ @LGEV
+Scenario Outline: wTHF4m3VPIName
+lb0yJBAY6gScenarioDescription
+Given rb18MytKCFStep
+When h7hivW4KwZStep
+Then qy4kDMxK4nStep <arg1> <arg2>
+
+Examples: AIGBiLVyYrTable
+GsAlLPOVROTableDescription
+|arg1|arg2|
+|G9R3|ARSD|
+|G9R3|ARSD|
 
 @SC_365318 @HEMV @MKRB @ZGUM
 Scenario Outline: fV8CSB1evmName
