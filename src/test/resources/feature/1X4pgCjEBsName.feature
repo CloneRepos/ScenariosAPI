@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_400361 @CWGK @CBVP @IZFA
-Scenario Outline: AhXsBN8D4DName
-qDfvJS1WGhScenarioDescription
-Given ijjjonHuuqStep
-When knPMak2aywStep
-Then sQFGROd3BGStep <arg1> <arg2>
+@SC_402410 @tag1 @tag2 @tag3
+Scenario Outline: k1fh2KDIejName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
 
-Examples: WX0sJcPprETable
-q3sZoYArhETableDescription
+Examples: GDeo3rqwApTable
+Table description yeah!
 |arg1|arg2|
-|MOKG|2ZQW|
-|MOKG|2ZQW|
+|123|456|
+|123|456|
 
 @SC_289052 @RAVP @4NOL @AE17
 Scenario Outline: SQnMfmrk4eName
@@ -106,6 +106,32 @@ dB0GVMApxTTableDescription
 |QSXQ|OPAF|
 |QSXQ|OPAF|
 
+@SC_304936 @EDBB @UBIB @AHLI
+Scenario Outline: tlxmHPP2oyName
+mLdtRw2ZbsScenarioDescription
+Given 0qQqcaSzHFStep
+When 6hWZJYPlHuStep
+Then fhY49GdxeSStep <arg1> <arg2>
+
+Examples: Umj77CoD2sTable
+abldVKHasTTableDescription
+|arg1|arg2|
+|4EXK|JCKE|
+|4EXK|JCKE|
+
+@SC_304937 @VEOM @OLDT @UDYK
+Scenario Outline: FizUtHy40ZName
+M34CQccGs7ScenarioDescription
+Given sevDjrCYUJStep
+When 8Kwdldbc18Step
+Then bqamTFlIJQStep <arg1> <arg2>
+
+Examples: tDSQiGLhXJTable
+CFQWRv6iHKTableDescription
+|arg1|arg2|
+|EXKC|PGYA|
+|EXKC|PGYA|
+
 @SC_307588 @A2OJ @6RH2 @HQEJ
 Scenario Outline: ExAT2YXOUnName
 CG24m67wFYScenarioDescription
@@ -145,6 +171,32 @@ dFfwYuwUieTableDescription
 |WEH7|WZPX|
 |WEH7|WZPX|
 
+@SC_321556 @XPIY @NS9G @FYTO
+Scenario Outline: 1YwMXp9aeeName
+0wNkqbpJ23ScenarioDescription
+Given 1QNR7ZwrecStep
+When bSs1Wzf6XjStep
+Then M5D6S9yPU6Step <arg1> <arg2>
+
+Examples: gTcezoor64Table
+BSvUU5T1hSTableDescription
+|arg1|arg2|
+|21W1|SHI0|
+|21W1|SHI0|
+
+@SC_323442 @FVSN @PQ7I @HPT9
+Scenario Outline: nrcKZiD1GEName
+MpE8WHtm0iScenarioDescription
+Given YxQNXZKbzlStep
+When 5CSqBoQcbEStep
+Then WP9xgZJWCMStep <arg1> <arg2>
+
+Examples: 7E04VOrIrTTable
+Ta89XRbblsTableDescription
+|arg1|arg2|
+|QK0U|BCA4|
+|QK0U|BCA4|
+
 @SC_324707 @6CDV @IHWC @2NCV
 Scenario Outline: XEdPqWUj5MName
 8i898tkQXTScenarioDescription
@@ -170,6 +222,19 @@ W3tXlrXSzRTableDescription
 |arg1|arg2|
 |BC6T|PYMO|
 |BC6T|PYMO|
+
+@SC_331016 @KPAH @Y8HF @GJ39
+Scenario Outline: L3EzgMRW42Name
+a73PwZsd8OScenarioDescription
+Given nbCMFtWq5JStep
+When 2kpnjZ7YILStep
+Then iO3CtMkQeLStep <arg1> <arg2>
+
+Examples: cXLaggp6agTable
+nfmo7qf80KTableDescription
+|arg1|arg2|
+|892O|PHKQ|
+|892O|PHKQ|
 
 @SC_336417 @PZQH @KGC9 @FWOI
 Scenario Outline: HZS3p0Pp3lName
@@ -548,67 +613,15 @@ nBRxLovwbTTableDescription
 |N0X2|WOZ8|
 |N0X2|WOZ8|
 
-@SC_331016 @KPAH @Y8HF @GJ39
-Scenario Outline: L3EzgMRW42Name
-a73PwZsd8OScenarioDescription
-Given nbCMFtWq5JStep
-When 2kpnjZ7YILStep
-Then iO3CtMkQeLStep <arg1> <arg2>
+@SC_400361 @CWGK @CBVP @IZFA
+Scenario Outline: AhXsBN8D4DName
+qDfvJS1WGhScenarioDescription
+Given ijjjonHuuqStep
+When knPMak2aywStep
+Then sQFGROd3BGStep <arg1> <arg2>
 
-Examples: cXLaggp6agTable
-nfmo7qf80KTableDescription
+Examples: WX0sJcPprETable
+q3sZoYArhETableDescription
 |arg1|arg2|
-|892O|PHKQ|
-|892O|PHKQ|
-
-@SC_323442 @FVSN @PQ7I @HPT9
-Scenario Outline: nrcKZiD1GEName
-MpE8WHtm0iScenarioDescription
-Given YxQNXZKbzlStep
-When 5CSqBoQcbEStep
-Then WP9xgZJWCMStep <arg1> <arg2>
-
-Examples: 7E04VOrIrTTable
-Ta89XRbblsTableDescription
-|arg1|arg2|
-|QK0U|BCA4|
-|QK0U|BCA4|
-
-@SC_321556 @XPIY @NS9G @FYTO
-Scenario Outline: 1YwMXp9aeeName
-0wNkqbpJ23ScenarioDescription
-Given 1QNR7ZwrecStep
-When bSs1Wzf6XjStep
-Then M5D6S9yPU6Step <arg1> <arg2>
-
-Examples: gTcezoor64Table
-BSvUU5T1hSTableDescription
-|arg1|arg2|
-|21W1|SHI0|
-|21W1|SHI0|
-
-@SC_304937 @VEOM @OLDT @UDYK
-Scenario Outline: FizUtHy40ZName
-M34CQccGs7ScenarioDescription
-Given sevDjrCYUJStep
-When 8Kwdldbc18Step
-Then bqamTFlIJQStep <arg1> <arg2>
-
-Examples: tDSQiGLhXJTable
-CFQWRv6iHKTableDescription
-|arg1|arg2|
-|EXKC|PGYA|
-|EXKC|PGYA|
-
-@SC_304936 @EDBB @UBIB @AHLI
-Scenario Outline: tlxmHPP2oyName
-mLdtRw2ZbsScenarioDescription
-Given 0qQqcaSzHFStep
-When 6hWZJYPlHuStep
-Then fhY49GdxeSStep <arg1> <arg2>
-
-Examples: Umj77CoD2sTable
-abldVKHasTTableDescription
-|arg1|arg2|
-|4EXK|JCKE|
-|4EXK|JCKE|
+|MOKG|2ZQW|
+|MOKG|2ZQW|
