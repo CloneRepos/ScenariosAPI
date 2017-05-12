@@ -2,33 +2,6 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_425364 @tag1 @tag2 @tag3
-Scenario Outline: PAPH7xCLxwName
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
-
-Examples: l4YXSTjEcfTable
-Table description yeah!
-|arg1|arg2|
-|123|456|
-|123|456|
-
-@SC_264707 @9SBC @D0UG @CJ4F
-Scenario Outline: jxJzft2in4Name
-fOP8246c3VScenarioDescription
-Given 5CSweemhCZStep
-When 2Xx0Z8nkXlStep
-Then MIYaVAtDU8Step <arg1> <arg2>
-
-Examples: lZsX8qZYcyTable
-Szik2L3h5yTableDescription
-|arg1|arg2|
-|8PUX|VLTU|
-|8PUX|VLTU|
-
-
 @SC_265585 @RYO9 @XN7S @Z6RE
 Scenario Outline: MheBraGV6CName
 9WzLCzmk1EScenarioDescription
@@ -309,14 +282,14 @@ RZEDOlispfTableDescription
 |AGSD|OJYB|
 
 
-@SC_351406 @tag1 @tag2 @tag3
-Scenario Outline: Z0DBjMyuqIName
+@SC_425364 @tag1 @tag2 @tag3
+Scenario Outline: PAPH7xCLxwName
 Description scenario yeah!
 Given first
 When second
 Then last <arg1> <arg2>
 
-Examples: UJOwz929exTable
+Examples: l4YXSTjEcfTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
@@ -334,6 +307,33 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
+@SC_351406 @tag1 @tag2 @tag3
+Scenario Outline: Z0DBjMyuqIName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: UJOwz929exTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
+@SC_264707 @9SBC @D0UG @CJ4F
+Scenario Outline: jxJzft2in4Name
+fOP8246c3VScenarioDescription
+Given 5CSweemhCZStep
+When 2Xx0Z8nkXlStep
+Then MIYaVAtDU8Step <arg1> <arg2>
+
+Examples: lZsX8qZYcyTable
+Szik2L3h5yTableDescription
+|arg1|arg2|
+|8PUX|VLTU|
+|8PUX|VLTU|
+
 
 @SC_264706 @VSEV @GG4Q @L9SM
 Scenario Outline: D1U3mrWwi7Name
@@ -361,17 +361,3 @@ ooNDLJSijyTableDescription
 |arg1|arg2|
 |MY48|X1A7|
 |MY48|X1A7|
-
-
-@SC_264064 @6JL9 @GNRK @XTWU
-Scenario Outline: uIm7P8OJnkName
-QvCdyz1qfGScenarioDescription
-Given 4fILRTRh2EStep
-When hk0xJMiUJPStep
-Then POnRoFQBtqStep <arg1> <arg2>
-
-Examples: 7gj3jaA7yJTable
-G0B60z61KRTableDescription
-|arg1|arg2|
-|WE8N|9RKC|
-|WE8N|9RKC|
