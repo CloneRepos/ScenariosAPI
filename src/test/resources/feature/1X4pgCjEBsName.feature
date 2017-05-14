@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_329756 @SONV @HPRW @X8NW
-Scenario Outline: GQhIhafTEbName
-yeh5f2NXEyScenarioDescription
-Given THr4T47khiStep
-When 0WybHXRBijStep
-Then QLZOGiUwBWStep <arg1> <arg2>
+@SC_331016 @1KML @J6RP @ACIA
+Scenario Outline: pJS81KYkJZName
+WrmruL8ooOScenarioDescription
+Given i11tiaQgbjStep
+When t2IxHyGw6RStep
+Then 9aauNx9dCgStep <arg1> <arg2>
 
-Examples: fepIjH1MyCTable
-oULiSldl8wTableDescription
+Examples: my7oFA94LwTable
+r069UYYgWOTableDescription
 |arg1|arg2|
-|UOYW|O4M2|
-|UOYW|O4M2|
+|NJE7|7ASR|
+|NJE7|7ASR|
 
 @SC_321556 @IEIN @R0UW @2K2V
 Scenario Outline: WWbHQpYrbKName
@@ -54,18 +54,18 @@ Examples: RbewNOIf2jTable
 |OFYP|AFBX|
 |OFYP|AFBX|
 
-@SC_331016 @6D66 @ZFND @B5XB
-Scenario Outline: qDthbU3nYqName
-lcALKu31MGScenarioDescription
-Given iADG2th44MStep
-When XOKCAB3OAZStep
-Then K9rOSitWu1Step <arg1> <arg2>
+@SC_329756 @SONV @HPRW @X8NW
+Scenario Outline: GQhIhafTEbName
+yeh5f2NXEyScenarioDescription
+Given THr4T47khiStep
+When 0WybHXRBijStep
+Then QLZOGiUwBWStep <arg1> <arg2>
 
-Examples: rYlqT7YntSTable
-vofvRPUmRkTableDescription
+Examples: fepIjH1MyCTable
+oULiSldl8wTableDescription
 |arg1|arg2|
-|Y2WR|93WS|
-|Y2WR|93WS|
+|UOYW|O4M2|
+|UOYW|O4M2|
 
 @SC_336417 @EE3A @UT6I @CF9S
 Scenario Outline: mXOOBl5NiZName
@@ -300,6 +300,19 @@ nny69iVMRPTableDescription
 |arg1|arg2|
 |JALU|1IU4|
 |JALU|1IU4|
+
+@SC_375788 @U2Y7 @ZNRZ @BYOU
+Scenario Outline: o7p6ho2v3aName
+YjURShWNv5ScenarioDescription
+Given vqqJFKVCLkStep
+When yJJHeFomOBStep
+Then 6c0zlXucioStep <arg1> <arg2>
+
+Examples: NJpjHhlt3dTable
+wcoFRNpNcBTableDescription
+|arg1|arg2|
+|6ABI|BZS9|
+|6ABI|BZS9|
 
 @SC_377837 @MWME @LTI1 @DEAP
 Scenario Outline: Yl00WsUFXHName
@@ -599,16 +612,3 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
-
-@SC_375788 @U2Y7 @ZNRZ @BYOU
-Scenario Outline: o7p6ho2v3aName
-YjURShWNv5ScenarioDescription
-Given vqqJFKVCLkStep
-When yJJHeFomOBStep
-Then 6c0zlXucioStep <arg1> <arg2>
-
-Examples: NJpjHhlt3dTable
-wcoFRNpNcBTableDescription
-|arg1|arg2|
-|6ABI|BZS9|
-|6ABI|BZS9|
