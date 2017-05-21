@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_363213 @JIEJ @JJIS @FVRR
-Scenario Outline: 4ffJq7HWsRName
-kY4qrvnaR9ScenarioDescription
-Given LX1wP3oXdsStep
-When N8Iiu1UxvrStep
-Then yJ3IEEBmzkStep <arg1> <arg2>
+@SC_365318 @AY2L @IFVA @UIOW
+Scenario Outline: xBmLGzs8KXName
+eb15FhuC16ScenarioDescription
+Given LTIKgYS4leStep
+When HeGXE0jNJvStep
+Then wCB98iyELfStep <arg1> <arg2>
 
-Examples: vYlYsOuGLqTable
-HWEauEMHzZTableDescription
+Examples: QFlB7cRmIYTable
+qL0ztEChgATableDescription
 |arg1|arg2|
-|Q4AD|SDLM|
-|Q4AD|SDLM|
+|J9AB|RXSA|
+|J9AB|RXSA|
 
 @SC_338181 @J3IG @TKJH @IKPS
 Scenario Outline: E2ujS1jjDNName
@@ -171,18 +171,18 @@ fZU4R4ZRYLTableDescription
 |TO5T|JLQU|
 |TO5T|JLQU|
 
-@SC_365318 @H6LB @B81F @1EAF
-Scenario Outline: pdAEANoGFBName
-7P92mo24REScenarioDescription
-Given mt4BTx9wyEStep
-When mbaf0QK4E4Step
-Then EvHcY7MaGtStep <arg1> <arg2>
+@SC_363213 @JIEJ @JJIS @FVRR
+Scenario Outline: 4ffJq7HWsRName
+kY4qrvnaR9ScenarioDescription
+Given LX1wP3oXdsStep
+When N8Iiu1UxvrStep
+Then yJ3IEEBmzkStep <arg1> <arg2>
 
-Examples: gK9fUtk46jTable
-sD8WG6SjeQTableDescription
+Examples: vYlYsOuGLqTable
+HWEauEMHzZTableDescription
 |arg1|arg2|
-|ZK6X|DKCG|
-|ZK6X|DKCG|
+|Q4AD|SDLM|
+|Q4AD|SDLM|
 
 @SC_368554 @RAAA @5GUT @MOEU
 Scenario Outline: lixwnXFvDXName
@@ -405,19 +405,6 @@ jzqC9Izww2TableDescription
 |P7N7|8CAY|
 |P7N7|8CAY|
 
-@SC_406508 @O9H1 @JFUJ @D3AY
-Scenario Outline: ZT0RjmynIQName
-grPnO24N8BScenarioDescription
-Given IfJpGeUKAXStep
-When kzMbFWRbvQStep
-Then rx7boXa5KxStep <arg1> <arg2>
-
-Examples: vIs1hrHVxRTable
-J0QDtIZqtHTableDescription
-|arg1|arg2|
-|EWXU|7ZI0|
-|EWXU|7ZI0|
-
 @SC_408557 @APAW @ZARJ @SPUK
 Scenario Outline: jAGLuSgCUuName
 yAZJvjwp3iScenarioDescription
@@ -612,3 +599,16 @@ Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
+@SC_406508 @O9H1 @JFUJ @D3AY
+Scenario Outline: ZT0RjmynIQName
+grPnO24N8BScenarioDescription
+Given IfJpGeUKAXStep
+When kzMbFWRbvQStep
+Then rx7boXa5KxStep <arg1> <arg2>
+
+Examples: vIs1hrHVxRTable
+J0QDtIZqtHTableDescription
+|arg1|arg2|
+|EWXU|7ZI0|
+|EWXU|7ZI0|
