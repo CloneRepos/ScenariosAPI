@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_435609 @EI5O @TU40 @ROBB
-Scenario Outline: wsOwz2rQdHName
-6FaWl6dLvQScenarioDescription
-Given MkeHS9QxXlStep
-When UqEazJ2YmxStep
-Then idJE4WxGRYStep <arg1> <arg2>
+@SC_437658 @OMZZ @RYCM @SH5N
+Scenario Outline: dIIzTBwzPgName
+ZM9rUnmHa9ScenarioDescription
+Given QAJhZL6vzeStep
+When zCIMfrhPPCStep
+Then jxi2DPqHCqStep <arg1> <arg2>
 
-Examples: i8l3d2xaFTTable
-rhFKYf9lclTableDescription
+Examples: YbgmqaIRuOTable
+GCVblkYfoSTableDescription
 |arg1|arg2|
-|8HSG|I723|
-|8HSG|I723|
+|QHGX|UGPC|
+|QHGX|UGPC|
 
 @SC_338181 @J3IG @TKJH @IKPS
 Scenario Outline: E2ujS1jjDNName
@@ -40,6 +40,19 @@ FuGSZbMZbzTableDescription
 |arg1|arg2|
 |USDB|T23T|
 |USDB|T23T|
+
+@SC_345235 @DMVH @WEHB @GRBN
+Scenario Outline: OkSCPElwA8Name
+ZL57qRjr6oScenarioDescription
+Given CiwlvytCt6Step
+When 2GM8ToVaobStep
+Then hBJJbEfRcQStep <arg1> <arg2>
+
+Examples: eBEz1GjMmzTable
+R1LPgGt509TableDescription
+|arg1|arg2|
+|GIFX|UGCK|
+|GIFX|UGCK|
 
 @SC_346499 @PU5K @7WVX @T7OS
 Scenario Outline: B94EwMMCaSName
@@ -457,19 +470,6 @@ KLhDYl9YrSTableDescription
 |MO5C|L17Y|
 |MO5C|L17Y|
 
-@SC_345235 @DMVH @WEHB @GRBN
-Scenario Outline: OkSCPElwA8Name
-ZL57qRjr6oScenarioDescription
-Given CiwlvytCt6Step
-When 2GM8ToVaobStep
-Then hBJJbEfRcQStep <arg1> <arg2>
-
-Examples: eBEz1GjMmzTable
-R1LPgGt509TableDescription
-|arg1|arg2|
-|GIFX|UGCK|
-|GIFX|UGCK|
-
 @SC_413915 @DQXG @4Y8G @LMYK
 Scenario Outline: MtEpWZCFoHName
 hyA4R2EMMQScenarioDescription
@@ -587,18 +587,18 @@ ssHjSBmu3rTableDescription
 |7Q6D|4EZH|
 |7Q6D|4EZH|
 
-@SC_437658 @7UKV @3C7L @XIYA
-Scenario Outline: 58ARPDuGYoName
-4bPe0JQrKBScenarioDescription
-Given TsxCEiN5NPStep
-When Vn3JGTRnMiStep
-Then asdZ9qdQtiStep <arg1> <arg2>
+@SC_435609 @EI5O @TU40 @ROBB
+Scenario Outline: wsOwz2rQdHName
+6FaWl6dLvQScenarioDescription
+Given MkeHS9QxXlStep
+When UqEazJ2YmxStep
+Then idJE4WxGRYStep <arg1> <arg2>
 
-Examples: z6ldtDFHgKTable
-dFDJpZx9eNTableDescription
+Examples: i8l3d2xaFTTable
+rhFKYf9lclTableDescription
 |arg1|arg2|
-|DP1L|5MHB|
-|DP1L|5MHB|
+|8HSG|I723|
+|8HSG|I723|
 
 @SC_439694 @tag1 @tag2 @tag3
 Scenario Outline: pFMM8msIooName
