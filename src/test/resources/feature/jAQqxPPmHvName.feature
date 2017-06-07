@@ -2,18 +2,57 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_451933 @tag1 @tag2 @tag3
-Scenario Outline: fcjjntSjszName
+@SC_468007 @tag1 @tag2 @tag3
+Scenario Outline: 9a3UwdnfZ5Name
 Description scenario yeah!
 Given first
 When second
 Then last <arg1> <arg2>
 
-Examples: qzLcJtOVzbTable
+Examples: IErZO9njkVTable
 Table description yeah!
 |arg1|arg2|
 |123|456|
 |123|456|
+
+@SC_264707 @DBLU @DYCT @HI3F
+Scenario Outline: EBRCY07YICName
+D6FezuSq02ScenarioDescription
+Given gR0RJXemJLStep
+When SnXhzQ1noyStep
+Then 8y7gC9J4ggStep <arg1> <arg2>
+
+Examples: wuigRe5AbFTable
+f9lx77vlDKTableDescription
+|arg1|arg2|
+|LV3I|AIYH|
+|LV3I|AIYH|
+
+@SC_265585 @WLRT @KDFI @SKTU
+Scenario Outline: ozRgNmOzc3Name
+VVFBbqYSpFScenarioDescription
+Given VCF4HG5revStep
+When Myxs2tCIJdStep
+Then gE2vM7Knh2Step <arg1> <arg2>
+
+Examples: tRnY8EB4MmTable
+IGlEROobZPTableDescription
+|arg1|arg2|
+|AVFM|SATA|
+|AVFM|SATA|
+
+@SC_265586 @DS6Q @DW7E @WBLK
+Scenario Outline: w9w3QWwpg3Name
+M1NKauKlAHScenarioDescription
+Given MMrAPZQsrxStep
+When Ujd1rEF0mqStep
+Then snbBSh16kqStep <arg1> <arg2>
+
+Examples: t8ItIXVmKUTable
+yKGIiiFDFWTableDescription
+|arg1|arg2|
+|SMLY|OX72|
+|SMLY|OX72|
 
 @SC_269426 @TQ0H @MULK @G3CW
 Scenario Outline: mYZQX2laeHName
@@ -327,41 +366,15 @@ Table description yeah!
 |123|456|
 |123|456|
 
-@SC_265586 @DS6Q @DW7E @WBLK
-Scenario Outline: w9w3QWwpg3Name
-M1NKauKlAHScenarioDescription
-Given MMrAPZQsrxStep
-When Ujd1rEF0mqStep
-Then snbBSh16kqStep <arg1> <arg2>
+@SC_451933 @tag1 @tag2 @tag3
+Scenario Outline: fcjjntSjszName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
 
-Examples: t8ItIXVmKUTable
-yKGIiiFDFWTableDescription
+Examples: qzLcJtOVzbTable
+Table description yeah!
 |arg1|arg2|
-|SMLY|OX72|
-|SMLY|OX72|
-
-@SC_265585 @WLRT @KDFI @SKTU
-Scenario Outline: ozRgNmOzc3Name
-VVFBbqYSpFScenarioDescription
-Given VCF4HG5revStep
-When Myxs2tCIJdStep
-Then gE2vM7Knh2Step <arg1> <arg2>
-
-Examples: tRnY8EB4MmTable
-IGlEROobZPTableDescription
-|arg1|arg2|
-|AVFM|SATA|
-|AVFM|SATA|
-
-@SC_264707 @DBLU @DYCT @HI3F
-Scenario Outline: EBRCY07YICName
-D6FezuSq02ScenarioDescription
-Given gR0RJXemJLStep
-When SnXhzQ1noyStep
-Then 8y7gC9J4ggStep <arg1> <arg2>
-
-Examples: wuigRe5AbFTable
-f9lx77vlDKTableDescription
-|arg1|arg2|
-|LV3I|AIYH|
-|LV3I|AIYH|
+|123|456|
+|123|456|
