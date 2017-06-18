@@ -2,6 +2,19 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
+@SC_379886 @JDKJ @FYCA @UA4S
+Scenario Outline: OxpNsui4aUName
+GFKkmHWSk7ScenarioDescription
+Given 08UQgzG1F4Step
+When dS6FcLsHgBStep
+Then mFglByVWObStep <arg1> <arg2>
+
+Examples: SWXJ4G4RUWTable
+h3Urt0sgTqTableDescription
+|arg1|arg2|
+|VIJI|8RDA|
+|VIJI|8RDA|
+
 @SC_377837 @L4JF @SWMG @QQUQ
 Scenario Outline: 3SxHaJA9JVName
 zurqxi5SyBScenarioDescription
@@ -14,19 +27,6 @@ XPeN4YyO1MTableDescription
 |arg1|arg2|
 |AIVO|HLLA|
 |AIVO|HLLA|
-
-@SC_379886 @8E4Q @O4RG @K6XM
-Scenario Outline: OMib8hH6xkName
-jqeP3C03BiScenarioDescription
-Given 12iLLeSDEjStep
-When nTugYv9lgVStep
-Then 3a2F7XyVf8Step <arg1> <arg2>
-
-Examples: oWVI5S4genTable
-UxFsEPUCAjTableDescription
-|arg1|arg2|
-|Z5PD|73QB|
-|Z5PD|73QB|
 
 @SC_381934 @TC3Q @PDMP @JOSS
 Scenario Outline: TkISHna20bName
