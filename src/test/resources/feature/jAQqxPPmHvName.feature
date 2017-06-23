@@ -2,18 +2,31 @@
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_479198 @WSO7 @QOPN @PUE2
-Scenario Outline: Kek8fGHKlLName
-febTJXDhazScenarioDescription
-Given VjULKgLYagStep
-When 3o5z5vPczQStep
-Then mmvzQeOGODStep <arg1> <arg2>
+@SC_495590 @KFM8 @ELVM @SMKU
+Scenario Outline: WjySbPzTKtName
+BHcOtgZXtQScenarioDescription
+Given ikbO476NvWStep
+When BnEEbHmvCWStep
+Then jukyFKfGQfStep <arg1> <arg2>
 
-Examples: 6kWmtDzYwBTable
-OJP1fyS1vLTableDescription
+Examples: 5MrMNHivI6Table
+9XVe9AR2F1TableDescription
 |arg1|arg2|
-|LHUN|FBJG|
-|LHUN|FBJG|
+|OZEC|CASO|
+|OZEC|CASO|
+
+@SC_272213 @FOTA @HWHO @PRYJ
+Scenario Outline: RbaSrxpwnSName
+mBVMw14h0RScenarioDescription
+Given VnxJaKZsY7Step
+When lfnfidvrwAStep
+Then 2T7MHrSmIeStep <arg1> <arg2>
+
+Examples: pWWuTfgZGJTable
+t6ohARwHg1TableDescription
+|arg1|arg2|
+|QZ2G|GZKB|
+|QZ2G|GZKB|
 
 @SC_272214 @TQMD @LYBA @UEGF
 Scenario Outline: XRN4p1CEFiName
@@ -353,28 +366,15 @@ xL9kXkflmYTableDescription
 |EGWW|VPOP|
 |EGWW|VPOP|
 
-@SC_495590 @tag1 @tag2 @tag3
-Scenario Outline: HVd6u6Nlj4Name
-Description scenario yeah!
-Given first
-When second
-Then last <arg1> <arg2>
+@SC_479198 @WSO7 @QOPN @PUE2
+Scenario Outline: Kek8fGHKlLName
+febTJXDhazScenarioDescription
+Given VjULKgLYagStep
+When 3o5z5vPczQStep
+Then mmvzQeOGODStep <arg1> <arg2>
 
-Examples: hHB5IwCtFcTable
-Table description yeah!
+Examples: 6kWmtDzYwBTable
+OJP1fyS1vLTableDescription
 |arg1|arg2|
-|123|456|
-|123|456|
-
-@SC_272213 @FOTA @HWHO @PRYJ
-Scenario Outline: RbaSrxpwnSName
-mBVMw14h0RScenarioDescription
-Given VnxJaKZsY7Step
-When lfnfidvrwAStep
-Then 2T7MHrSmIeStep <arg1> <arg2>
-
-Examples: pWWuTfgZGJTable
-t6ohARwHg1TableDescription
-|arg1|arg2|
-|QZ2G|GZKB|
-|QZ2G|GZKB|
+|LHUN|FBJG|
+|LHUN|FBJG|
