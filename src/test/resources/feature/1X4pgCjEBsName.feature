@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_458551 @QLGK @3RX7 @HTJA
-Scenario Outline: Sfxs3k6AssName
-3YkkhR0aqEScenarioDescription
-Given TDroamYsWbStep
-When tvf4XpgvQKStep
-Then xsIYK5RsfzStep <arg1> <arg2>
+@SC_459811 @UOFM @SKO9 @ELEX
+Scenario Outline: hT0nMor6v1Name
+eqjbJrrnZPScenarioDescription
+Given 3BavbsPkdNStep
+When 6gLXpXk5ABStep
+Then D1FIB55qJ2Step <arg1> <arg2>
 
-Examples: rDCT8ilyi8Table
-lS6pt3DlHKTableDescription
+Examples: t4LgL5UZpWTable
+blUjAghdRbTableDescription
 |arg1|arg2|
-|RHQW|9S3D|
-|RHQW|9S3D|
+|CZHE|MOFK|
+|CZHE|MOFK|
 
 @SC_406508 @V9W9 @WW6K @E2SW
 Scenario Outline: aDReUhg6PgName
@@ -288,18 +288,18 @@ MmHvJxnUgwTableDescription
 |UUKS|KFHC|
 |UUKS|KFHC|
 
-@SC_459811 @GIGV @LDQK @8MMF
-Scenario Outline: mb5I0VyhuTName
-hKy6AV6pHiScenarioDescription
-Given rwcf9Ou4s3Step
-When ccANcCd1e9Step
-Then 0PNoRtKM6RStep <arg1> <arg2>
+@SC_458551 @QLGK @3RX7 @HTJA
+Scenario Outline: Sfxs3k6AssName
+3YkkhR0aqEScenarioDescription
+Given TDroamYsWbStep
+When tvf4XpgvQKStep
+Then xsIYK5RsfzStep <arg1> <arg2>
 
-Examples: ZCCGs6GQowTable
-cHi764oISdTableDescription
+Examples: rDCT8ilyi8Table
+lS6pt3DlHKTableDescription
 |arg1|arg2|
-|GKVX|Y0JO|
-|GKVX|Y0JO|
+|RHQW|9S3D|
+|RHQW|9S3D|
 
 @SC_461860 @GUIN @YVIF @UDHK
 Scenario Outline: GPtxWzK57sName
