@@ -2,18 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_505834 @C52X @VAOU @EF1H
-Scenario Outline: Hdb8jpO598Name
-pyBPhZBSYKScenarioDescription
-Given rD71dzhEM8Step
-When MyfsmlmGiOStep
-Then 9NXGYHLuSBStep <arg1> <arg2>
+@SC_509931 @KDBU @G5EY @TMPR
+Scenario Outline: TCnONLzKAEName
+zRJ9ZEAIJMScenarioDescription
+Given sao7vwqNVkStep
+When rat5l78KrpStep
+Then cO5Guqc8afStep <arg1> <arg2>
 
-Examples: SXauJ6d1zCTable
-NWUcPcqwU6TableDescription
+Examples: noRgrKogS6Table
+9weuoM0RP9TableDescription
 |arg1|arg2|
-|UKZS|RSTM|
-|UKZS|RSTM|
+|IIPL|JJLA|
+|IIPL|JJLA|
 
 @SC_410606 @J2HV @X5IA @APYF
 Scenario Outline: pUd9lLLydMName
@@ -483,18 +483,18 @@ t7AJwAVi0ETableDescription
 |43HB|BTYZ|
 |43HB|BTYZ|
 
-@SC_509931 @6J1H @BRGK @VDXP
-Scenario Outline: LBhrIapg4kName
-7yb8GPWaHuScenarioDescription
-Given DogwGg46h0Step
-When 1igUuN6tk0Step
-Then WumqniFHt5Step <arg1> <arg2>
+@SC_505834 @C52X @VAOU @EF1H
+Scenario Outline: Hdb8jpO598Name
+pyBPhZBSYKScenarioDescription
+Given rD71dzhEM8Step
+When MyfsmlmGiOStep
+Then 9NXGYHLuSBStep <arg1> <arg2>
 
-Examples: ykHn3T1fC6Table
-Y1ryne666cTableDescription
+Examples: SXauJ6d1zCTable
+NWUcPcqwU6TableDescription
 |arg1|arg2|
-|GFAG|QLWT|
-|GFAG|QLWT|
+|UKZS|RSTM|
+|UKZS|RSTM|
 
 @SC_511980 @RYKE @FZWP @CGWZ
 Scenario Outline: ADGGtl2VDlName
